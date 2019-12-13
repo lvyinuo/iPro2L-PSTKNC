@@ -1,0 +1,4140 @@
+>ECK125137720_aaeRp10_forward_3389381_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+acgggaaacagactcatgttgaccttggttgtaaagagagagcaggcgttattattttcaGcatctgtcgccgcagagaag
+
+
+
+>ECK125137717_aaeRp6_forward_3389477_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcgagagcaacattgctgtagattgatatttaatatattagcgtaactgttatgctgttaTctatattatgtgatctaaat
+
+
+
+>ECK125136673_aatp5_reverse_927460_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgcttgccagacaggggcgttattaccagttcaagcagggtttgtaagctattattgaacGatccgacttgcgtggagttt
+
+
+
+>ECK120010467_accAp_forward_208411_[TIM|S|Transcription initiation mapping]_Strong
+
+gcccgggaaaaatatgctcgcgggcttgctatctcgctgacggacaggcaaattgatgacCagcttttaaaccgactccgt
+
+
+
+>ECK120010469_accBp_forward_3405140_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tgaaggttatttacatgttagctgttgattatcttccctgataagaccagtatttagctgCcaattgctacgaaatcgtta
+
+
+
+>ECK120010470_accDp_reverse_2434015_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+actccgcggttcgaccacttttttatccaaagtttcgggctgttatgttttaatgtgcaaCattcatggtctgttgggggc
+
+
+
+>ECK120010987_aceBp_forward_4215402_[TIM|S|Transcription initiation mapping]_Strong
+
+tatttttaattaaaatggaaattgtttttgattttgcattttaaatgagtagtcttagttGtgctgaacgaaaagagcaca
+
+
+
+>ECK120010281_aceEp_forward_122969_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aaagcgcggcaactaaacgtagaacctgtcttattgagctttccggcgagagttcaatggGacaggttccagaaaactcaa
+
+
+
+>ECK120010669_acnAp1_forward_1335424_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aatgttccgtcgttattccagacgactggcaactaacatcgcagcagcaagcctttatagAactgtttgctgaagatgatc
+
+
+
+>ECK120010670_acnAp2_forward_1335781_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tcttttatcaatttgggttgttatcaaatcgttacgcgatgtttgtgttatctttaatatTcaccctgaagagaatcaggg
+
+
+
+>ECK120010671_acnBp_forward_131519_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tttatgttgcttttttgtaaacagattaacacctcgtcaaaatcctgctattctgcccgtTgcggtactgggcatttaccc
+
+
+
+>ECK120010720_acpPp_forward_1151575_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+atcgtggtaagacctgccgggatttagttgcaaatttttcaacattttatacactacgaaAaccatcgcgaaagcgagttt
+
+
+
+>ECK120010736_acrAp_reverse_485698_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+gttcgtgaatttacaggcgttagatttacatacatttgtgaatgtatgtaccatagcacgAcgataatataaacgcagcaa
+
+
+
+>ECK120015500_acrDp_forward_2587475_[AIPP|W|Automated inference of promoter position]_Weak
+
+aaagtcagttaatgtaatgcctcctactgaccaaagaatacttgcacttaaggttcagtaTaaaagggcatgataatttac
+
+
+
+>ECK120016232_acrEp_forward_3413702_[AIPP|W|Automated inference of promoter position]_Weak
+
+ttacgaggttttaattctgcctctttcaacccgcgtcaaaataaaacagtagaatattaaTctttttttgtgtttatgtgc
+
+
+
+>ECK120015959_acrRp_forward_485699_[AIPP|W|Automated inference of promoter position]_Weak
+
+gatttcaaattggtcaatggtcaaaagttaataaacccattgctgcgtttatattatcgtCgtgctatggtacatacattc
+
+
+
+>ECK125158030_acrZp_forward_794751_[TIM|S|Transcription initiation mapping]_Strong
+
+cgcaaagctgaccgcacaaaaggggagtgcttttctgtgcttagcggttagaatagtctcAtgactatatctggagttgac
+
+
+
+>ECK120009980_acsp1_reverse_4287595_[AIPP|W|Automated inference of promoter position]_Weak
+
+aataaccacactgtgaatgttgtctttaatcaattgtaagtgcatgtaaaataccactttAgagttagtcagtatcttcct
+
+
+
+>ECK120009981_acsp2_reverse_4287391_[AIPP|W|Automated inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+atactaaacaaaactgccaatacccctacatttaacgcttatgccacatattattaacatCctacaaggagaacaaaagca
+
+
+
+>ECK120011025_adap_reverse_2310427_[TIM|S|Transcription initiation mapping]_Strong
+
+aaaaattaaagcgcaagattgttggtttttgcgtgatggtgaccgggcagcctaaaggctAtccttaaccagggagctgat
+
+
+
+>ECK125137021_addp6_forward_1702202_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aacgtaaaaaatcgttgcgcaatcgtggatttttaccctgctttgtttttataatggtgcGcacttttatatccagaaaaa
+
+
+
+>ECK125134720_adep_forward_3843910_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttcagtgataattatcacatttcaattgcacattaatggatattctttaataatctcgcgAcgtttctttatgataaataa
+
+
+
+>ECK120010249_adhEp1_reverse_1298413_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+ttgttatctagttgtgcaaaacatgctaatgtagccaccaaatcatactacaatttattaActgttagctataatggcgaa
+
+
+
+>ECK120010777_adiAp_reverse_4340556_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+ttcaaaaatgtttgtttttcacgcgctttacagcccgaaaaggccggaagatacttgcccGcaacgaagattccttcataa
+
+
+
+>ECK120010095_agaRp_reverse_3278703_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+agcttgcgtcaatgggcaaggtgggcttgcatttgcttaatagaaaggcgttaataggcaAaacgaaatgaaacgaaagtt
+
+
+
+>ECK120010096_agaSp_forward_3281889_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tcgttttatttcttttttctccattgaactttcagtttcttttctatagattttaatcaaCgaaagacatcaccaagtgaa
+
+
+
+>ECK120010147_ahpCp_forward_638921_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+atcgatttgataatggaaacgcattagccgaatcggcaaaaattggttaccttacatctcAtcgaaaacacggaggaagta
+
+
+
+>ECK120051395_ahpCp2_forward_638693_[TIM|S|Transcription initiation mapping]_Strong
+
+taggtaagagcttagatcaggtgattgccctttgtttatgagggtgttgtaatccatgtcGttgttgcatttgtaagggca
+
+
+
+>ECK120010163_aidBp_forward_4414247_[TIM|S|Transcription initiation mapping]_Strong
+
+gataagaatgttttagcaatctctttctgtcatgaatccatggcagtgaccatactaatgGtgactgccattgatggaggg
+
+
+
+>ECK125137309_aisp4_reverse_2365756_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+taagaaactaatattagacgtaaatattgaaatttttatattttttcttatttaggctttGcatttggcaaaattttgagg
+
+
+
+>ECK125137332_alaAp7_forward_2407414_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cagaacaattcactatataacattgcatgtaaagcatatacacctcattattttgtcattAttaagttattaacagcacaa
+
+
+
+>ECK120030790_alaCp_reverse_2498399_[AIPP|W|Automated inference of promoter position]_Weak
+
+agataaatttcctgtttttaaagcagagttcctcatttaacgtcattaataaaatgttctAaaacgctggacagacagaaa
+
+
+
+>ECK125257026_alaEp_forward_2799084_[TIM|S|Transcription initiation mapping]_Strong
+
+aaactgactaaataaaaatttttcactaattgattagtcatagccagcgatatacgctatGcgaaaatgcagatggcaatg
+
+
+
+>ECK120010611_alaWp_reverse_2518253_[HIPP|W|Human inference of promoter position]_Weak
+
+actacacgttgcaatttgccgttgacacattcgggcggaattcatatgatgccgcccgtcAactcgacaagctttacgtga
+
+
+
+>ECK125137370_alaXp4_reverse_2518306_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aatgcgagcggttttccaaaattgttcatttgcctgatttttcagcgattgaaactacacGttgcaatttgccgttgacac
+
+
+
+>ECK120010673_aldAp_forward_1488190_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+cccttcacagaattgtcctttcacgattccgtctctctgatgattgatgttaattaacaaTgtattcaccgaaaacaaaca
+
+
+
+>ECK120010107_alkAp_reverse_2147559_[FP|S|Footprinting]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tcgcgacaaccggaatatgaaagcaaagcgcagcgtctgaataacgtttatgctgaaagcGgatgaataaggagatgcgat
+
+
+
+>ECK120010162_alkBp_reverse_2309445_[HIPP|W|Human inference of promoter position]_Weak
+
+aaagcggtacgggccgttgccagcgcctgtgccgccaacaagctggctatcataatacccTgtcatcgggtggtccgtggt
+
+
+
+>ECK120015473_allDp_reverse_546411_[AIPP|W|Automated inference of promoter position]_Weak
+
+aataaattctaactatatttttttgcctgtctggatcacataatccagatattttccctgTatgttaattgcagtcatgct
+
+
+
+>ECK125138019_alsEp2_reverse_4308664_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cagaaccgcttgccggtatgggttttgaaacctatgccattgccagcgccatcattggcgGcaccagtttcttcggcggca
+
+
+
+>ECK120010029_alsRp1_reverse_4313132_[TIM|S|Transcription initiation mapping]_Strong
+
+catctatcatctaaaaaaccagaaaaacaaataacatcatgtttttaaactaattaaatgAaataaaattttaagccactc
+
+
+
+>ECK125137640_alxp4_forward_3238370_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aacagtgtaaaaggtatgtaacagaccattgactggctgaatggtctgtcatactttgttAcctgcaaaggggagtaactt
+
+
+
+>ECK120009942_amiAp_forward_2552241_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+gtgaacggtcgaattagccaatatctgacgaaaatcggttgaaaaagtggcataatggggAgttgtcaactattgaaatga
+
+
+
+>ECK125137497_amiCp6_reverse_2949189_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tttaccacggcacacctctttgcatgattattcgaaattagtgtatttttattctgttttTtcgcagggtgcaagtgtaaa
+
+
+
+>ECK120010445_ampCp_reverse_4379003_[IMP|W|Inferred from mutant phenotype]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tacggtctggctgctatcctgacagttgtcacgctgattggtgtcgttacaatctaacgcAtcgccaatgtaaatccggcc
+
+
+
+>ECK120015384_amyAp_forward_2006115_[HIPP|W|Human inference of promoter position]_Weak
+
+gctccgcaggataacctcttttgaatctgaatgagtcgatggctcgcgaataatccgattAcggctacgcttctaatgttc
+
+
+
+>ECK125137027_anmKp9_reverse_1719673_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+acattcatgatgattattgatttgaagataatgttttactaccaacggtaaaaatcggtcAttccgcatggtattcacgaa
+
+
+
+>ECK120011026_ansBp2_reverse_3100751_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tcacgttgtaaattgtttaacgtcaaatttcccatacagagctaagggataatgcgtagcGttcacgtaactggaggaatg
+
+
+
+>ECK120010165_appCp_forward_1037710_[HIPP|W|Human inference of promoter position]_Weak
+
+ggcgaatacctctggtcgtagagtttcaggataaagagggagatctaccattatcgggttAtttttctctcttcgcctaca
+
+
+
+>ECK120020532_appYp_forward_583567_[AIPP|W|Automated inference of promoter position]_Weak
+
+aataaaaaacaacatacatataataatttaatcttaaatgaaatttattaaaatttgcaaActataattttgtgtataaaa
+
+
+
+>ECK120030797_aptp_forward_491310_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aaagcactgaagcacaacaatcgcagttgcaattattgcgtacagccagtacattctggcGttttcgagcacaggcgcagg
+
+
+
+>ECK125136670_aqpZp3_reverse_916133_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aatcaaatttactggatttatttatctggtgaatgactcgccttcgtttttaaaatagccGcgcattatttccgtcgtcac
+
+
+
+>ECK120010108_araBp_reverse_70075_[TIM|S|Transcription initiation mapping]_Strong
+
+ccataagattagcggatcctacctgacgctttttatcgcaactctctactgtttctccatAcccgtttttttggatggagt
+
+
+
+>ECK120010988_araCp_forward_70241_[TIM|S|Transcription initiation mapping]_Strong
+
+caatgtggacttttctgccgtgattatagacacttttgttacgcgtttttgtcatggcttTggtcccgctttgttacagaa
+
+
+
+>ECK120010148_araEp_reverse_2982208_[TIM|S|Transcription initiation mapping]_Strong
+
+catatttatgctgtttccgacctgacacctgcgtgagttgttcacgtattttttcactatGtcttactctctgctggcagg
+
+
+
+>ECK120010166_araFp_reverse_1986238_[TIM|S|Transcription initiation mapping]_Strong
+
+aattctgcgatgtgatattgctctcctatggagaattaatttctcgctaaaactatgtcaAcacagtcacttatcttttag
+
+
+
+>ECK120010167_araJp_reverse_412529_[TIM|S|Transcription initiation mapping]_Strong
+
+gaatacagaggggcgaattatctcttggccttgctggtcgttatcctgcaagctatcactTtattggctacggtgattggt
+
+
+
+>ECK120010655_arcAp1_reverse_4640508_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttgggtgtccggcccctcttagcctgttatgttgctgttaaaatggttaggatgacagccGtttttgacactgtcgggtcc
+
+
+
+>ECK125137740_arfAp3_reverse_3438673_[TIM|S|Transcription initiation mapping]_[ICWHO|W|Inferred computationally without human oversight]_Strong
+
+gggcgagtggcgttaagagtggttgttgattttttgcactggcaggattacactcgcgccGttaaataaccaactggagtt
+
+
+
+>ECK120020530_argAp_forward_2949156_[AIPP|W|Automated inference of promoter position]_Weak
+
+gtcatctaataaacggtaaacattctttttatattcacggcattactgataaaaaagtcgCtctcgcataaaatttacact
+
+
+
+>ECK120010989_argCp_forward_4154885_[TIM|S|Transcription initiation mapping]_Strong
+
+aatggcggtaatttgtttttcattgttgacacacctctggtcatgatagtatcaatattcAtgcagtatttatgaataaaa
+
+
+
+>ECK120010177_argDp_reverse_3490221_[TAS|W|Traceable author statement]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tttcctgcatcgctgatttctgattgccatttagtgattttttatgcatattttgtggttAtaatttcacatttgtttatg
+
+
+
+>ECK120010109_argEp1_reverse_4154897_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aaaacattcaccttacggctggtgggttttattacgctcaacgttagtgtatttttattcAtaaatactgcatgaatattg
+
+
+
+>ECK120010990_argFp_reverse_290340_[TIM|S|Transcription initiation mapping]_[FP|S|Footprinting]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gtaagaaagaattgtgaaatggggttgcaaatgaataattacacatataaagtgaattttAattcaataagtggcgttcgc
+
+
+
+>ECK120010080_argGp_forward_3318562_[AIPP|W|Automated inference of promoter position]_Weak
+
+tttacaaaaaacacactaaactcttcctgtctccgataaaagatgattaaatgaaaactcAtttattttgcataaaaattc
+
+
+
+>ECK120010110_argRp1_forward_3384677_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+ttcagccttcttcagggctgactgtttgcataaaaattcatctgtatgcacaataatgttGtatcaaccaccatatcgggt
+
+
+
+>ECK125137153_argSp_forward_1960001_[TIM|S|Transcription initiation mapping]_[ICWHO|W|Inferred computationally without human oversight]_Strong
+
+aaacggcaatacgccacgcgcacgttgctgacgaaaacagccatttgcagtatactcccgCcctaatttctttaactggtg
+
+
+
+>ECK120010588_argUp_forward_564703_[HIPP|W|Human inference of promoter position]_Weak
+
+cagcaaccagatcaaaagccattgactcagcaagggttgaccgtataattcacgcgattaCaccgcattgcggtatcaacg
+
+
+
+>ECK120010600_argXp_forward_3982364_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[FP|S|Footprinting]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+gcaatttatttaaaaagggactagacagaggggtgggaagtccgtattatccacccccgcAacggcgctaagcgcccgtag
+
+
+
+>ECK120010992_aroFp_reverse_2741201_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gtaaataaaaatgtacgaaatatggattgaaaactttactttatgtgttatcgttacgtcAtcctcgctgaggatcaacta
+
+
+
+>ECK120010993_aroGp_forward_785591_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+taatccgttcatagtgtaaaaccccgtttacacattctgacggaagatatagattggaagTattgcattcactaagataag
+
+
+
+>ECK120010994_aroHp1_forward_1788318_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+cttagtcgccgaatgtactagagaactagtgcattagcttatttttttgttatcatgctaAccacccggcgaggtgtgaca
+
+
+
+>ECK120029297_aroHp2_forward_1788384_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cggcgaggtgtgacacacctcgcacttgaaatcagcagcgattggtttatcgtgatgcgcAtcacttcccggcagtcctgc
+
+
+
+>ECK120010642_aroKp1_reverse_3519380_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttacgctgaacgtgtttcatctatttgacgcgcgcaggtatttagcatacaaggagtaccGatttgagagttggtgctctt
+
+
+
+>ECK120010643_aroKp2_reverse_3519167_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+cagagggatgggtgatttattcagttgccaaacccgctggagtattgagataattttcagTctgactctcgcaatatctta
+
+
+
+>ECK120010995_aroLp_forward_406280_[TIM|S|Transcription initiation mapping]_Strong
+
+taaatgtaatttattatttacacttcattcttgaatatttattggtatagtaaggggtgtAttgagattttcactttaagt
+
+
+
+>ECK120010996_aroPp1_reverse_121671_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttcaaccatgcataaagcgggtgcattcgctgccgcataccattattcttgatctgacggAagtctttttgtaacaattca
+
+
+
+>ECK125137993_arpAp8_reverse_4222513_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atatttctttagttgtaatcatattaaattttttcactgttctgatagttaaaattcaagAcatcaataaacaatgagata
+
+
+
+>ECK125137994_arpAp9_reverse_4222691_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agaataagggtgtctgttaatcgcattgacgccaaaataacttaatgtcatacacttcacAcacttttattaactcagcat
+
+
+
+>ECK125135022_arrSp_reverse_3658054_[HIPP|W|Human inference of promoter position]_Weak
+
+caagaataagttatcaataaccagtttgtgatctctgaagaatattactaaagttaaaatGtaatccgatttaaatatcga
+
+
+
+>ECK120010685_arsRp_forward_3648512_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+cattcgttaagtcatatatgtttttgacttatccgcttcgaagagagacactacctgcaaCaatcaggagcgcaatatgtc
+
+
+
+>ECK120015422_artJp_reverse_900626_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+catttaaattatttaatcatgtttattgcatataaattcacttgatggcattgttatcccAtgccgcagacacggccaaaa
+
+
+
+>ECK120015421_artPp_reverse_903769_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttttaacttttaaagcagaaatattgcataattattctgtcaaaggtactatcttcgaccTcaatagctatcagactgcca
+
+
+
+>ECK120016938_ascFp_forward_2839429_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+ataaaaaatgaacaattcactctcttgcttatttagtgacaactattcatgattttgtgaAaccggtttcttaattccgtt
+
+
+
+>ECK120016939_ascGp_reverse_2839287_[AIPP|W|Automated inference of promoter position]_Weak
+
+aatatttttcccgccgattgtgcaaggacaatcggcaaacggtgcagtacactgcgttgaTtgcgtgtaaagggatgaaaa
+
+
+
+>ECK120010178_asnAp_forward_3927129_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gagttaggctttttattgaatgattattgcatgtgtgtcggtttttgttgcttaatcataAgcaacaggacgcaggagtat
+
+
+
+>ECK120010179_asnCp_reverse_3927031_[TIM|S|Transcription initiation mapping]_Strong
+
+tcattcaataaaaagcctaactcacttttgattcattaaaaaagaaggctaaaatagaatGaatcatcaatccgcataaga
+
+
+
+>ECK120010591_asnTp_forward_2044541_[HIPP|W|Human inference of promoter position]_Weak
+
+aatgacttatgaaatttagtgttgacagacaaggtaccgctaagtaatattcgccccgttCacacgattcctctgtagttc
+
+
+
+>ECK120010218_aspAp_reverse_4368432_[TIM|S|Transcription initiation mapping]_Strong
+
+accgacacttaaagtgatccagattacggtagaaatcctcaagcagcatatgatctcgggTattcggtcgatgcaggggat
+
+
+
+>ECK120010586_aspVp_forward_236913_[HIPP|W|Human inference of promoter position]_Weak
+
+ttcaaaagatgagaaaaaccgttgacgaaggtcgaggcaatccgtaatattcgcctcgttCccaacggaacacaacgcgga
+
+
+
+>ECK120009899_asrp_forward_1671327_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+gttacacgctgaaaccaaccactcacggaagtctgccattcccagggatatagttatttcAacggccccgcagtggggtta
+
+
+
+>ECK120009851_astCp1_reverse_1832013_[HIPP|W|Human inference of promoter position]_Weak
+
+ggctggcacgaaccctgcaatctacatttacagcgcaaacattacttattattaacatatAaataacgaattatttactgt
+
+
+
+>ECK125137912_atpCp1_reverse_3916059_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctccctgaaagacaccatccgtggctttaaaggcatcatggaaggcgaatacgatcacctGccggagcaggcgttctacat
+
+
+
+>ECK120010417_atpIp_reverse_3922525_[TIM|S|Transcription initiation mapping]_Strong
+
+ttattcaccttttggctacttattgtttgaaatcacgggggcgcaccgtataatttgaccGctttttgatgcttgactcta
+
+
+
+>ECK125140837_azoRp_reverse_1482904_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gaacataggcttcgatttattgcgctatctctgtggcaggattgtgaataaagtgtcaacAagcaacggggcatcgcccat
+
+
+
+>ECK125095432_azuCp_reverse_1988001_[TIM|S|Transcription initiation mapping]_Strong
+
+tttatgtgatttgtatcacataaagattgatttttgtgatggttgtcatattataagcgcAaagacaataacacctgtata
+
+
+
+>ECK125138022_basSp4_reverse_4333477_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ccgtcaggtatggatgggcggtgaagagttgattctgacgcccaaagaatatgctctgctGtcacggttaatgctcaaagc
+
+
+
+>ECK125137855_baxp5_reverse_3737221_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ttggggtgctcttgacagctatttttgatatgatttgagattcaactctcaaatttgtgaAaaatataaggtgttggaatg
+
+
+
+>ECK120010674_bcpp_forward_2600437_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+attgagcaagcgttcaaagccctatgtacagaactcaatgcacaaggcagtattaacgtcGtcaattattcccaacatgat
+
+
+
+>ECK120016406_bcsBp_reverse_3692673_[AIPP|W|Automated inference of promoter position]_Weak
+
+agggcatattccgtgtgctgacttctctggtttcctgggttgtatcgtttattccgcgccGcccggagcggagcgaaacgg
+
+
+
+>ECK125137835_bcsEp8_forward_3696322_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tacggcgagacgggaatttgctcactttttgactttccgttacgcaacagaaaaagttaaAaacgaaaagactaaaatcac
+
+
+
+>ECK125138058_bdcRp4_forward_4474096_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+acctgtaaaagcgcccataaggactccttgatttattatgtaacatgcattacaaaactgTtttaactttctgtcaacagg
+
+
+
+>ECK125136459_betAp7_reverse_327257_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tacacccaggtgaagtccatccaggttgagatggctaaattccagtccatattctaaccaGgaggtttatttgcaatttga
+
+
+
+>ECK120010181_betIp_reverse_329361_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+cgtaacaattaagacacattttatattgaacgtccaatcaataaccgctttaatagataaAcaccgctgatgaatggagtg
+
+
+
+>ECK125137742_bfrp3_reverse_3466749_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ggagtccgcataaacggagtgtgttttttgacttactcgtaagccgttctactcttcaaaGagtggaagcgaaggagtcaa
+
+
+
+>ECK120015385_bglXp_reverse_2222120_[HIPP|W|Human inference of promoter position]_Weak
+
+cactccttgtggtggcgaaaaaatatcacaaactagaatagcgccttgtataacaattcaGcgagtgaatattttgaaaat
+
+
+
+>ECK125136763_bhsAp8_forward_1168981_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gctttctatttaactgaaatttaaagatttttaaattaattaatgattgttataaaaaatAtcttgtatgtgatccagatc
+
+
+
+>ECK125136764_bhsAp9_forward_1169019_[TIM|S|Transcription initiation mapping]_[ICWHO|W|Inferred computationally without human oversight]_Strong
+
+attaatgattgttataaaaaatatcttgtatgtgatccagatcacatctatcatttagttAtcgatcgttaagtaattgct
+
+
+
+>ECK120010997_bioAp_reverse_809292_[HIPP|W|Human inference of promoter position]_Weak
+
+gtgagccatggggcttctccaaaacgtgttttttgttgttaattcggtgtagacttgtaaAcctaaatcttttcaatttgg
+
+
+
+>ECK120010998_bioBp_forward_809302_[HIPP|W|Human inference of promoter position]_Weak
+
+gatcgtccgttgtcataatcgacttgtaaaccaaattgaaaagatttaggtttacaagtcTacaccgaattaacaacaaaa
+
+
+
+>ECK125137841_bisCp3_reverse_3716486_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgttaatccttaataacctttttattctttgccacgggttccgtggcgggagattatgccGcgtgaacatgaagattattc
+
+
+
+>ECK125158027_bluFp_reverse_1215506_[TIM|S|Transcription initiation mapping]_Strong
+
+aaacggttatgttttggtattaaaagaaagacacaagaagatatgtctgttaccgtcttaCtctcgcctcacccattaccc
+
+
+
+>ECK120010471_bolAp1_forward_454434_[TIM|S|Transcription initiation mapping]_[FP|S|Footprinting]_[AIPP|W|Automated inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aacctaaatatttgttgttaagctgcaatggaaacggtaaaagcggctagtatttaaaggGatggatgacatctcagcgtt
+
+
+
+>ECK120027939_bolAp2_forward_454349_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+ctggtaaaagaaacactgatgcgaggcctgtgtttcaatctttaaatcagtaaacttcatAcgcttgacggaaaaaccagg
+
+
+
+>ECK125136658_bssRp5_forward_878246_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tttgctcaaaaaatagccatactatttaattgcaacaaggctgggaagaggaggatcgaaGtatgttcgttgacagacagc
+
+
+
+>ECK120034201_bssSp_reverse_1121020_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttatctgtttccccctttaaaaattcggtgaatacccttacttattggtatactgaagttGcttcagataaaaacgcattg
+
+
+
+>ECK120010438_btuBp_forward_4163399_[TIM|S|Transcription initiation mapping]_Strong
+
+gaattcctatttgtgagctacgtctggacagtaacttgttacaacctgtagcatccacttGccggtcctgtgagttaatag
+
+
+
+>ECK120010564_cadBp_reverse_4360106_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+tttgtgttatttcacctaatctttaggattaatccttttttcgtgagtaatcttatcgccAgtttggtctggtcaggaaat
+
+
+
+>ECK120010183_cadCp_reverse_4361963_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ataatatgtaaataaacccatctatagatggtaaaaataggttgtggcaattatcattgcAtcattcccttttcgaatgag
+
+
+
+>ECK120010686_caiFp_forward_34218_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gatgacataagcaggatttagctcacacttatcgacggtgaagttgcatactatcgatatAtccacaattttaatatggcc
+
+
+
+>ECK120010675_cblp_reverse_2060941_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tggaataagatgcgggtttttattatttgttatgccgggcattagactttaacaataacgGgaaatctgaactgcccggag
+
+
+
+>ECK120010474_cbpAp1_reverse_1063833_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_Strong
+
+gatgatttcaataacatattctgtgttggcatatgaaattttgaggattaccctacacttAtaggagttaccttacagggg
+
+
+
+>ECK125160651_cbpAp4_reverse_1063919_[TIM|S|Transcription initiation mapping]_Strong
+
+tggttcaactatcaaaaatcgctcaccctttttcacctgtttaaaatatgttcagcaaccCatcttgatggcgacctcctc
+
+
+
+>ECK125160650_cbpAp6_reverse_1064037_[TIM|S|Transcription initiation mapping]_Strong
+
+ttccaggcctgtttcaaataattatttgcagtgcaactaattccatgtatattactacccAtatatagcgtctataaaatt
+
+
+
+>ECK125137907_cbrBp3_forward_3897479_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ggttgggatattacggcatagttcttcacactcccttcacttaccccgcttaaattggcgCtcaaaggtaagtaaagggag
+
+
+
+>ECK120010619_cddp_forward_2231819_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+gcataattaatgagattcagatcacatataaagccacaacgggttcgtaaactgttatccCattacatgattatgaggcaa
+
+
+
+>ECK125136392_cdsAp2_forward_195561_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcattagtaactttttgctttggcaaattgcctatgccgaactttactttacagatgttcTctggcccgatttcgatgaac
+
+
+
+>ECK120010764_cedAp_reverse_1813742_[HIPP|W|Human inference of promoter position]_Weak
+
+tagaccaccagccagatcccgcttcggagactattctggaaacggtgttatgaaatacacGcaaagcgggacgtacagggg
+
+
+
+>ECK120010732_cfap1_forward_1741201_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tacttaggctgctaacaaaattttgttgtatgattgaaattagcggcctatactaatttcGagttgttaaagctacgataa
+
+
+
+>ECK120009948_chiAp_reverse_3469896_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttttaatgccgtaatttaattcatattgaagggttctcgtaaaacgtaaataattcctgcGtaggacttttgttttgcagt
+
+
+
+>ECK120035107_chop_forward_1823492_[AIPP|W|Automated inference of promoter position]_Weak
+
+gtaacctttgtcatcgacccgcctcttttttaatcgcttcccgcctgttacactggatagAtaaccagcattcggagtcaa
+
+
+
+>ECK120009877_chpSp1_forward_4448402_[HIPP|W|Human inference of promoter position]_Weak
+
+atctattaacgcataaaaaactctgctggcattcacaaatgcgcaggggtaaaacgtttcCtgtagcaccgtgagttatac
+
+
+
+>ECK125136564_citTp6_reverse_646603_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctgatccttacctggtttttagcacagatttaattatttaagcacttgataaatttggaaAtattaattttcggagaaccc
+
+
+
+>ECK125136382_clcAp10_forward_175052_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tcttagagtataaaagttttgtgcatttgaaacattacgctttgcaaaggattttcatggAacgtgcgagtaaaatgccgt
+
+
+
+>ECK125137205_cldp6_reverse_2098375_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cagggctatttacgccctgattgtcttttgttacttacacaacaattcattatttttatcActtatcctatagcattcacg
+
+
+
+>ECK120010537_clpAp1_forward_923080_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ttacactccgatggagtttgttattgacgtgttacaaaaattcttttcttatgatgtagaAcgtgcaacgcaattgatgct
+
+
+
+>ECK120010365_clpBp_reverse_2734205_[IDA|S|Inferred from direct assay]_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_[IEP|W|Inferred from expression pattern]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttttcacattaatctggtcaataaccttgaataattgagggatgacctcatttaatctccAgtagcaactttgatccgtta
+
+
+
+>ECK120010295_clpPp1_forward_456577_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+accgtgcgaaaagcctctttcggtgttagcgtaacaacaaaagattgttatgcttgaaatAtggtgatgccgtacccataa
+
+
+
+>ECK125136671_clpSp6_forward_922750_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agagaattagggcgagccgtcaagcatttgacaggggacaaggggcaggtatgaatcaaaAatttgaagcagttaacgcta
+
+
+
+>ECK120010702_cmkp_forward_961165_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aaactggtttttgcacacaacgttaacgatttgtggcgtcggcgcgtataatgcgcgcggTtatgttaacggtacgcctgt
+
+
+
+>ECK120010689_cmoMp_forward_973404_[HIPP|W|Human inference of promoter position]_Weak
+
+acatcagcggaagtggcagcaacatattgccaatcacttttttcagtgtaaaaagcatccTttctggttccttttttaacc
+
+
+
+>ECK125137023_cnup7_forward_1704873_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agcagtttttcatccctgaatatttgccatcagcgcattcttattattgtaataacacaaGcgttcacttttggtgaaatt
+
+
+
+>ECK125137197_cobTp8_reverse_2064601_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gccgctatttttgctgccgtattattgccgggtatgcatggtgtggctgctatggtggtgAcgatggtggcgattttcatc
+
+
+
+>ECK120016352_cobUp1_reverse_2065874_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_Strong
+
+aagtctggctattccgtaatgccatcttatttcgtaatggattgagaatgctggatttttAattatattacgcgcagtatt
+
+
+
+>ECK120016353_cobUp2_reverse_2065972_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gttgttccggcagtagcattaattcattatctgaatgaaatgtgtcaatccacagaaaccGctgtcaatgacgcattttgt
+
+
+
+>ECK120010248_codBp_forward_354884_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aaaaatatatttccccacgaaaacgattgctttttatcttcagatgaatagaatgcggcgGattttttgggtttcaaacag
+
+
+
+>ECK125136789_cohEp8_reverse_1202955_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tacctccggtgtacatattacatgattgaaatgaaccttcaagatacttgtaccttaacgGtacaagggttttaatttcgt
+
+
+
+>ECK125136790_cohEp9_reverse_1203014_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ggccaactcgccctgctgttctttggttaaagagtcccaatacgctttcatacaatatgtAcctccggtgtacatattaca
+
+
+
+>ECK125136762_comRp3_reverse_1168863_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agcaattatttttatgggatctggactggtgaacggaggtgattatttttataataacctTtcattcacagtcaccaggta
+
+
+
+>ECK120010641_copAp_reverse_511411_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+acccgcctggtttattaatttcttgaccttccccttgctggaaggtttaacctttatcacAgccagtcaaaactgtcttaa
+
+
+
+>ECK120010545_corAp_forward_4001194_[HIPP|W|Human inference of promoter position]_Weak
+
+gttctgtggtgttctgttgcgtgttgacggcaaaattttgctggcgtaacatgcgcgcacGatcactctaagaggacattc
+
+
+
+>ECK120010185_cpdBp_reverse_4436629_[TIM|S|Transcription initiation mapping]_Strong
+
+tgcgccaactgtgatagtgtcatcattttcaaagcgtaaaattgtggcattcttcactgtTctataagtaagacgtttatt
+
+
+
+>ECK120010879_cpxPp_forward_4105785_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ctttacgttgttttacaccccctgacgcatgtttgcagcctgaatcgtaaactctctatcGttgaatcgcgacagaaagat
+
+
+
+>ECK120015953_cpxRp_reverse_4105686_[HIPP|W|Human inference of promoter position]_Weak
+
+gggggtgtaaaacaacgtaaagtcatggattagcgacgtctgatgacgtaatttctgcctCggaggtatttaaacaatgaa
+
+
+
+>ECK120033636_crlp1_forward_257810_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[IEP|W|Inferred from expression pattern]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gatcgaaaaacgcttgtgttaaaaatttgctaaattttgccaatttggtaaaacagttgcAtcacaacaggagatagcaat
+
+
+
+>ECK125136793_croEp5_forward_1203006_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+acccttgtaccgttaaggtacaagtatcttgaaggttcatttcaatcatgtaatatgtacAccggaggtacatattgtatg
+
+
+
+>ECK120010184_crpp1_forward_3485953_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gggtcatgctgaagcgagacaccaggagacacaaagcgaaagctatgctaaaacagtcagGatgctacagtaatacattga
+
+
+
+>ECK125137495_csdAp3_forward_2943207_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atcttctccttaaagcgattaataaatcttaatagtattgattaacaggctaaaattaacGcctaacactattcagcatat
+
+
+
+>ECK120010479_csgBp_forward_1103859_[TIM|S|Transcription initiation mapping]_[FP|S|Footprinting]_Strong
+
+aagaaaaatacaacgcgcgggtgagttattaaaaatatttccgcagacatactttccatcGtaacgcagcgttaacaaaat
+
+
+
+>ECK120010480_csgDp1_reverse_1103344_[TIM|S|Transcription initiation mapping]_Strong
+
+agttacatttagttacatgtttaacacttgatttaagatttgtaatggctagattgaaatCagatgtaatccattagtttt
+
+
+
+>ECK120010399_cspAp1_forward_3719889_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aatcataaatatgaaaaataattgttgcatcacccgccaatgcgtggcttaatgcacatcAacggtttgacgtacagacca
+
+
+
+>ECK120010400_cspAp2_forward_3719940_[TIM|S|Transcription initiation mapping]_Strong
+
+atgcacatcaacggtttgacgtacagaccattaaagcagtgtagtaaggcaagtcccttcAagagttatcgttgatacccc
+
+
+
+>ECK120010540_cspDp_reverse_922676_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tgccccttgtcccctgtcaaatgcttgacggctcgccctaattctctaaattgtatttctAgagttggcgaggttttgaac
+
+
+
+>ECK120034386_cspEp1_forward_657147_[AIPP|W|Automated inference of promoter position]_Weak
+
+gtactttgcctggatgcgctttcagttttgagacaaatgaagttttagtaacttctttaaAatcaatagctaaaataagta
+
+
+
+>ECK120034385_cspEp2_forward_657250_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+tatcactttttagtaaagttacactggacaaagcgtaccacaattggtgtactggtaaccGacacagcatttgtgtctatt
+
+
+
+>ECK125136996_cspFp6_forward_1641765_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ttcaaaccgacgcaatcattaacgcatagttgaacatatgaagcaatgtttattttagacAtccagccatcttcaacccca
+
+
+
+>ECK125136997_cspFp7_forward_1641690_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+actcaaagaaggaataagtgaataacacctgaaatgagaactgctttagtaaactacttcGtatatcgtctgttcttcaaa
+
+
+
+>ECK125136714_cspHp10_reverse_1051278_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+actactttgtatgctgtctgtctttcaaaccgacgcagctattaacgcatgataattgagAttaagcaaattttattttag
+
+
+
+>ECK125138142_csrAp5_reverse_2819189_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttagatgtaatgtgtttgtcattgcttactttttggcgttatatgatggataatgccgggAtacagagagacccgactctt
+
+
+
+>ECK125137724_csrDp4_reverse_3403425_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ataagtggtcctcatgtgcatgatggattggaaaataatttctgaagactatactcgctaAtggaaaagcaaagccgatga
+
+
+
+>ECK120010099_cstAp2_forward_629864_[TIM|S|Transcription initiation mapping]_Strong
+
+atttacatggttgctgtgttgttaaattgtacaaagatgttatagaaacaaaatgtaacaTctctatggacacgcacacgg
+
+
+
+>ECK125136514_cueRp6_forward_513974_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gatattcgcactggcaaaaaaacgtgcttgaatatctgttgaaaccctttaacaaagcacAggaggcgttgcgcgaacgat
+
+
+
+>ECK120009908_cusCp_forward_595573_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tgacaattttgtcatttttctgtcaccggaaaatcagagcctggcgagtaaagttggcggCataaaatcaccagaaattat
+
+
+
+>ECK120010701_cutAp_reverse_4365392_[TIM|S|Transcription initiation mapping]_Strong
+
+cacgccccgctttctttcccgccgactaacatccttcccccgtccgttgtatagtgacctCtctcttgcggttccatctgt
+
+
+
+>ECK125136817_cvrAp6_reverse_1242164_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ataacacccgggaaggcactcagttgacgattagcggtcatcctgttcttaaaatgtaaaAaaatcacgcttcagggctaa
+
+
+
+>ECK120010114_cyaAp_forward_3990999_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tacacttgtatgtagcgcatctttctttacggtcaatcagcaaggtgttaaattgatcacGttttagaccattttttcgtc
+
+
+
+>ECK120034942_cyaRp_forward_2167114_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tggaaaattcttagaaaccgatcacatacagctgcatttattaaggttatcatccgtttcGctgaaaaacataacccataa
+
+
+
+>ECK125137921_cyaYp5_reverse_3994083_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gaacgcagccgcagaggtgcaaactttgaagccctgaccccatgccgctatactgccgccAtcacttaaaaacaggataca
+
+
+
+>ECK125136921_cybBp6_forward_1490887_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ggtgaacaatatttaatgaaattttgagaaaagcccgttatgttaacggaaaattatgttAaagcaggaaatgttatggaa
+
+
+
+>ECK120010168_cydAp1_forward_771170_[TIM|S|Transcription initiation mapping]_Strong
+
+ttgatatttatcaatgtataagtcttggaaatgggcatcaaaaagagataaattgttctcGatcaaattggctgaaaggcg
+
+
+
+>ECK120010700_cydAp2_forward_771284_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+atgcaaatttgcttcaacaaaaacctgtttattgtaaggattttgcggcgtaatatatacGtgggatcaatttgagttttt
+
+
+
+>ECK120009951_cydAp3_forward_771202_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gggcatcaaaaagagataaattgttctcgatcaaattggctgaaaggcggtaatttagctAtaaattgatcaccgtcgaaa
+
+
+
+>ECK120010773_cydDp_reverse_931031_[TIM|S|Transcription initiation mapping]_Strong
+
+aaaataattttacaaatcagtaacaaaagtaaagaaggcgacaccatgcgactatgggtcGcctttattttttccccgttg
+
+
+
+>ECK120010203_cynTp_forward_358773_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+atggaactcatcataaatgagacttttaccttatgacaatcggcgagtagtctgcctctcAttccagagacagacagaggt
+
+
+
+>ECK120010169_cyoAp_reverse_451653_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tccaagtaacaggaatttaatcatgtttacagtaatgtaaccttcccgtaaaatgcccacAcactttaaacgccaccagat
+
+
+
+>ECK125136489_cyoEp3_reverse_447770_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gatgaaggctggaacatgacggcgtttgtcttcaccgtgctaatcatcgctatcctggttGtaggctccatctggattatg
+
+
+
+>ECK120010149_cysBp_forward_1333788_[HIPP|W|Human inference of promoter position]_Weak
+
+atacactaaggctataaatgatatagtggttatagttagcaccttttttattattaaatcGtattagtcacccgccaggtg
+
+
+
+>ECK120010206_cysDp_reverse_2876368_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+aactactcattctaattggtaatttcattcgttctcttacgctccctatagtcgaaacatCtgatggcaagaaaatagcgg
+
+
+
+>ECK120015375_cysGp1_forward_3497754_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+tgggtaatactttatcaggtgccgtattcatgggattgggttattggtatgctacgccgaAagcgaatcgtccggttgcgg
+
+
+
+>ECK120010150_cysJp_reverse_2891964_[TIM|S|Transcription initiation mapping]_Strong
+
+ggttattagttatcgctatcccgtctttaatccacaccgtttgccccgttaaccttacctTctcttctgttttatgggcgc
+
+
+
+>ECK120010151_cysKp1_forward_2532377_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gtatatagatatgctaaatccttacttccgcatattctctgagcgggtatgctacctgttGtatcccaatttcatacagtt
+
+
+
+>ECK120010430_cytRp_reverse_4124509_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cacacttttcatgaaaattctgtaaccgttttcacgcgctatctgctaaaaatgttgccgAtgtgaagtaaacatggatgt
+
+
+
+>ECK125136575_dacAp3_reverse_664001_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gttaacaaagtcacgcggaaagtcagatgcctgccggtagtgcatttgctatagtagggcActtttttaattccatcacgg
+
+
+
+>ECK120022294_dacCp_forward_880653_[AIPP|W|Automated inference of promoter position]_Weak
+
+gcaggatattgcataaactttaaaaactttaccaacttacggtttctttaagtttgtgtgTgcgttattaatcaccaaact
+
+
+
+>ECK120010722_dadAp3_forward_1237538_[TIM|S|Transcription initiation mapping]_Strong
+
+aaaagccgcatgttgaataatattttcaactgagttatcaagatgtgattagattattatTcttttactgtatctaccgtt
+
+
+
+>ECK120010644_damXp_reverse_3517600_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+cgcggacgtcggaacgtctcgggcagtttagttctgccgaaacgcagcgtattataacccTgctcaagcgggctgggttac
+
+
+
+>ECK120010646_damp2_reverse_3515982_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aggtacaggccgatctgaagtaatcaaggttatctcccgcaatggtttatcgttgcgggaGttgcctgaagcgctggatgc
+
+
+
+>ECK120010274_dapBp1_forward_28343_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+atttctaattatcagcgtttttggctggcggcgtagcgatgcgctggttactctgaaaacGgtctatgcaaattaacaaaa
+
+
+
+>ECK120030657_dapBp2_forward_28288_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tgcagtcattcatcgactcatgcctttcactgatatccctccctgtttatcattaatttcTaattatcagcgtttttggct
+
+
+
+>ECK120030660_dapEp_forward_2591560_[IDA|S|Inferred from direct assay]_[HIPP|W|Human inference of promoter position]_Strong
+
+aaatgcctgcaattatcaaacgtccattgctctgcgtgcccggtaagcctatgctgctggGtttcagtgattccagttatc
+
+
+
+>ECK120009885_dctAp_reverse_3683498_[TIM|S|Transcription initiation mapping]_Strong
+
+ttgtttcaattatgatccaggtacatttctgtgatgttgtctgggtgttattttaaggccGcaggtaccccataaccttac
+
+
+
+>ECK120010755_dcuAp_reverse_4366843_[TIM|S|Transcription initiation mapping]_Strong
+
+aagcgaacagtaatcgtacagggtagtacaaataaaaaaggcacgtcagatgacgtgcctTttttcttgtgagcagtaact
+
+
+
+>ECK120009913_dcuDp_forward_3374766_[HIPP|W|Human inference of promoter position]_Weak
+
+tacaaaataatcataagcgcatattttttaatgaaaaatcacctcacctacaattaaaaaCacgacatccgcaccataaat
+
+
+
+>ECK120033033_dcuRp_reverse_4350565_[TIM|S|Transcription initiation mapping]_Strong
+
+acgatcccacgaatttatgaataaattgcatgtgattctcggattattgcatctgaagagTtataagcagttggaagatta
+
+
+
+>ECK120016339_dcuSp_reverse_4351685_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+atatagccaatcattcttactccctttgaattacccgcctcatcagagataatgcttaagAaatttgtcacacaaggaagc
+
+
+
+>ECK125137339_dedDp3_reverse_2431875_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agatattgccggaactctggcctggttgaaaagcgtggttgatgactggtattgtgcgccActggaagggccgcgcggtgc
+
+
+
+>ECK120029527_defp_forward_3433650_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+caatctttgcgattggtcagtgatgctgtcaatcagagggggatttgtctagaatagaagAaataatctttctaactcctg
+
+
+
+>ECK125165391_degQp_forward_3380698_[TIM|S|Transcription initiation mapping]_Strong
+
+gactatcatttaatctggtgtctcattgttagccgtctgaaaattcaataacatcaaactGttttgaatctcttttcttat
+
+
+
+>ECK120010116_deoCp2_forward_4617278_[TIM|S|Transcription initiation mapping]_Strong
+
+gatttccttaattgtgatgtgtatcgaagtgtgttgcggagtagatgttagaatactaacAaactcgcaaggtgaatttta
+
+
+
+>ECK120029865_dgcZp_reverse_1623879_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aacttcggatttctatgaaaatattgacgtaattttgcttttctctcgttagaatagcgcGcacaaggaactgtgaaaaag
+
+
+
+>ECK120029294_dicBp_forward_1649597_[TASES|W|Traceable author statement to experimental support]_[HIPP|W|Human inference of promoter position]_Weak
+
+attgttaactggttaacgtcacctggaggcaccaggcactgcatcacaaaattcattgttGaggacgcgataatgaaaacg
+
+
+
+>ECK120010093_dinGp_forward_833073_[HIPP|W|Human inference of promoter position]_[AIPP|W|Automated inference of promoter position]_Weak
+
+ctgaaaaccgaaaaatgccacaatattggctgtttatacagtatttcaggttttctcatgGcattaaccgccgcgcttaaa
+
+
+
+>ECK120035104_dinIp_reverse_1121509_[IHBCE|W|Inferred by a human based on computational evidence]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+aaacaataaaaatcgtagcttcctgttgtcattaggttattttacctgtataaataaccaGtatattcaacagggggctat
+
+
+
+>ECK120049203_dinJp_reverse_246615_[AIPP|W|Automated inference of promoter position]_Weak
+
+gtatcccggatcgtttctgaacaaacttaataaaccattattataaaattaacatatataTttcagttaattatgtaaaaa
+
+
+
+>ECK120015518_dinQp_reverse_3647982_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+actgaaactattgcaaggacgtgctggttttataacctgcatgtactgtatgattatccaGttagctctgaggcattttca
+
+
+
+>ECK125136360_djlAp3_forward_57268_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aatagcgtcagtggtgttaggcacggcattgaatgacaggtatgataatgcaaattatagGcgatgtcccacaattgaccg
+
+
+
+>ECK120034549_dksAp2_reverse_160657_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttgtcaagtgttacgtttagataattgctatccggaaaagcatctgctatttatagcggcCtcatttttcccccgaacatg
+
+
+
+>ECK125145775_dksAp3_reverse_160751_[TIM|S|Transcription initiation mapping]_Strong
+
+cttaaaaaatcactgccggttacattgtagtaaagtaagtaactggttaatttacattctGgtcgcgtgcgcaaatacgct
+
+
+
+>ECK125137251_dldp6_forward_2222152_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttgtctgaattttcaaaatattcactcgctgaattgttatacaaggcgctattctagtttGtgatattttttcgccaccac
+
+
+
+>ECK125137252_dldp7_forward_2222082_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cagcgaaaatggtgcaaaaaccgtagtttgccataagcatgatggagagagaaaaagaatGctcagtttattgtctgaatt
+
+
+
+>ECK125137105_dmlRp3_reverse_1881855_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tcattgggttctcacttcctgaccatcaaaattgacaacatcaccatcctataattgactGaaaaggaattaatccccgta
+
+
+
+>ECK120010117_dmsAp1_forward_940823_[TIM|S|Transcription initiation mapping]_[NTAS|W|Non-traceable author statement]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttttgtctccctttgataccgaacaataattactcctcacttacacgtaatactactttcGagtgaaaatctacctatctc
+
+
+
+>ECK120010410_dnaAp2_reverse_3883882_[TIM|S|Transcription initiation mapping]_Strong
+
+ataaatcgggaaaatctgtgagaaacagaagatctcttgcgcagtttaggctatgatccgCggtcccgatcgttttgcagg
+
+
+
+>ECK120010408_dnaNp2_reverse_3882590_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tgaggcgctgcgcgacttgctggcattgcaggaaaaactggtcaccatcgacaatattcaGaagacggtggcggagtacta
+
+
+
+>ECK120010406_dnaNp4_reverse_3882348_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gccgtaagatcgagcagttgcgtgaagagagccacgatatcaaagaagatttttcaaattTaatcagaacattgtcatcgt
+
+
+
+>ECK120010490_dppAp_reverse_3707870_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tggtgtaaatcccggttggctgtattgacgttttcacattctgttgacagattgtaggtcAcgaggggcattttatggagg
+
+
+
+>ECK120009857_dsbAp_forward_4043377_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttactggctgcgacagacggcgacttttatagaacaggcaaaagttctacaagaacccccTttgcaattaacacctatgta
+
+
+
+>ECK120010208_dsdAp_forward_2479121_[TIM|S|Transcription initiation mapping]_Strong
+
+ctggctagtgaagcaatattgcggcgctacgctcaatgaaacatttaaatactatacgacAgcgacatttatcgcttcagt
+
+
+
+>ECK120011037_dsdCp_reverse_2477746_[AIPP|W|Automated inference of promoter position]_Weak
+
+aaaaaacaacgcaggctgacaaacgataaaatttgcctttcacatgaggtaaattgcatcAatggagtgatttacatctaa
+
+
+
+>ECK125108717_dsrAp_reverse_2025313_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttaatcattcatatggcgaatattttcttgtcagcgaaaaaaattgcggataaggtgatgAacacatcagatttcctggtg
+
+
+
+>ECK125136605_dtpDp5_reverse_742622_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gtatatttatgcaatcagacagcatattgcataaataatcagatctgtatcaaagttttaActttaaggaaacacaagcac
+
+
+
+>ECK125136607_dtpDp8_reverse_742670_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ccgacgccaaaagacgcaaattgtttatatcatcacgcttcagctaatgtatatttatgcAatcagacagcatattgcata
+
+
+
+>ECK125138002_dusAp6_forward_4261658_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agcctcctgaatagtgatgctgaataacataaccccatgatatatcgataaaataatctcTacatttgaaaatgcacggta
+
+
+
+>ECK120015437_dutp_forward_3813852_[HIPP|W|Human inference of promoter position]_Weak
+
+tgtttcccagccaactcaaggatttaacagcgacaacaacgcattacaccttttctggcaGgacggagataaagtcttacc
+
+
+
+>ECK125136389_dxrp3_forward_193335_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cgaacgacaaagtgaaagcactgttgaaagataaagagatcagcgaagacgacgatcgccGttctcaggacgatgtacaga
+
+
+
+>ECK120011034_ebgAp_forward_3222551_[AIPP|W|Automated inference of promoter position]_Weak
+
+tgctgccgtttattttcgtgatccagttaaagtaaatgcatttacctgctactttttagtAaaaattttactaaactcccc
+
+
+
+>ECK120010269_eddp1_reverse_1934713_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttttacactttcaggcctcgtgcggattcacccacgaggctttttttattacactgactgAaacgtttttgccctatgagc
+
+
+
+>ECK120029863_efeU_1p_forward_1081307_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttataaacattccgcttgtgtttttctttgccgtaatgataatcgctatcactgcgatttActtttctttgcatagattga
+
+
+
+>ECK120009875_efpp_forward_4375567_[HIPP|W|Human inference of promoter position]_Weak
+
+aaagctttttggcgctgcgtccggctaacagtttttcctccgcgtctatattcaaaagacGcagaagttcatcaggatcgg
+
+
+
+>ECK125137314_elaAp3_reverse_2381614_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atattgccgtgacattgcgcgtgcgggttggcacaccggctgaagtacctaaaaaaattaAttccatgagttcatcacgtt
+
+
+
+>ECK125136819_emtAp4_forward_1243125_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agtgaaacagagacatggcaattccttgctgacaacagaaacgaaatgtatatcatgccgCttaggtgtgccgttgtcacc
+
+
+
+>ECK125109856_enop4_reverse_2907968_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gtaaaaaagttagagcggcaacgcgtaccctgggtacgcgttgtttgtctggagtttcagTttaactagtgacttgaggaa
+
+
+
+>ECK125109857_enop7_reverse_2908152_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+tctgcgcgttgcgggccgttccggggatgatcagttggtcgagatcatcgaagttccgaaTcacccgtggttcgtggcttg
+
+
+
+>ECK120010224_entCp_forward_624831_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+ttgcagattgcgttacctcaagagttgacatagtgcgcgtttgcttttaggttagcgaccGaaaatataaatgataatcat
+
+
+
+>ECK125136554_entDp2_reverse_610141_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgaacgccttatccggcctacaaaaatcttgccaattcaatatattgcaggaccatgtagGcctgataagcgtagcgcatc
+
+
+
+>ECK125137731_envRp12_reverse_3413602_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ggcagaattaaaacctcgtaaattgaaatatatattgatgtagtgaatgtatcttaggtaAataatatatattatttattt
+
+
+
+>ECK120010534_epdp_reverse_3073823_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aatgtcttcttcggctggacaaacattccttttattccacgtttcgcttatcctagctgaAgcgtttcagtcgattaaatg
+
+
+
+>ECK125108721_eptBp_reverse_3710581_[TIM|S|Transcription initiation mapping]_Strong
+
+tttgtgcttcatgcacactctttccccacactttttccctttgctgtggtctacttattcGcgcgtgtagattttacttat
+
+
+
+>ECK125137196_erfKp4_reverse_2063354_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aatacgacttctgatttgaacagttaaaaacgaaaagtctgataaaagctatacttaacgGatagctttcgcgacatagga
+
+
+
+>ECK125145769_esrEp_forward_4019978_[TIM|S|Transcription initiation mapping]_Strong
+
+cagggcgatattcaggtggtgcaaaacttcgttgcgctggcagatctggcagagttcgacCctgcggaactgctggcccct
+
+
+
+>ECK120009935_exbBp_reverse_3152014_[HIPP|W|Human inference of promoter position]_Weak
+
+atgcaaatagtaatgagaacgactatcaattcgacgtcgttttgatattattatgcgcagAttttgtgacttgcgtcctgg
+
+
+
+>ECK125230249_exuRp2_forward_3246618_[TIM|S|Transcription initiation mapping]_Strong
+
+ccttctcaggcggctttttcatcactgcgagtagagctaaactcgcaaaagtggtataacAaatatagtctgccgtatcat
+
+
+
+>ECK120010355_fabBp_reverse_2441641_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttctctattaaatggctgatcggacttgttcggcgtacaagtgtacgctattgtgcattcGaaacttactctatgtgcgac
+
+
+
+>ECK120011027_fadBp_reverse_4031013_[TIM|S|Transcription initiation mapping]_Strong
+
+atcggcatttctttaatcttttgtttgcatatttttaacacaaaatacacacttcgactcAtctggtacgaccagatcacc
+
+
+
+>ECK120010075_fadIp_reverse_2460511_[AIPP|W|Automated inference of promoter position]_Weak
+
+tagctcccactttcccttttctccacttggctaaatgtaaaaaaatggttaagactatgaTcaggtcagaccactttattt
+
+
+
+>ECK120010215_fdnGp_forward_1547372_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+agatgttctttttgatttcgcgcaaaaagattcagaattttactgttagtttcctcgcgcAgtaatacccctgaaaaaaga
+
+
+
+>ECK125162182_feaBp1_forward_1447492_[TIM|S|Transcription initiation mapping]_Strong
+
+gacaaagcgaatgtcacagcgaaaaaagtgacttttcttgtcgctgcgtacactgaaatcAcactgggtaaataataagga
+
+
+
+>ECK125162183_feaBp2_forward_1447370_[TIM|S|Transcription initiation mapping]_Strong
+
+tttttattgttgcatttgtgttgcaataaacgaagctaatgagcctgactataggaaataAgtcttgtcaggcatagagac
+
+
+
+>ECK125162180_feaRp2_reverse_1447309_[TIM|S|Transcription initiation mapping]_Strong
+
+tatttcctatagtcaggctcattagcttcgtttattgcaacacaaatgcaacaataaaaaTacatttcacagagcgaaaac
+
+
+
+>ECK125138082_fecEp5_reverse_4511639_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcgtggccgcctgcggcccgattagctttattggtctcgtggtgccgcatatgatgcgtaGcatcaccggtggacgtcacc
+
+
+
+>ECK120010221_fepAp_reverse_612667_[TIM|S|Transcription initiation mapping]_Strong
+
+ccatgtttactgtgcaatttttcattgattgcagaaatatattgataatattattgataaCtatttgcatttgcaatagcg
+
+
+
+>ECK125136497_ffsp6_forward_476288_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atagccttcgggaatagcggcgacgatttgccagacgcgttggggaaatgaatcttctttTtccatcttttcttcctgagg
+
+
+
+>ECK120010999_fhuAp_forward_167442_[AIPP|W|Automated inference of promoter position]_Weak
+
+tgcgtaccgcttgcgaacccgccagcgtttcgaatattatcttatctttataataatcatTctcgtttacgttatcattca
+
+
+
+>ECK125137972_fieFp3_forward_4106432_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgtgggggttttttttatcctcaatttgcctgctgcttaatgcattgcagatgatttgctTccgttatactagcgtcagtt
+
+
+
+>ECK120010667_fimAp_forward_4542694_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tttaacttattgataataaagttaaaaaaacaaataaatacaagacaattggggccaaacTgtccatatcataaataagtt
+
+
+
+>ECK120009934_fiup_reverse_841648_[HIPP|W|Human inference of promoter position]_Weak
+
+aaatgtatttctttttcgcgcaatgggtgatagaaaatcgctccaagtgataatgcttatCaaaattattatcactttcac
+
+
+
+>ECK120010687_fixAp_forward_42325_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tattgaaagttggatttatctgcgtgtgacattttcaatattggtgattaaagttttattTcaaaattaaagggcgtgata
+
+
+
+>ECK120016579_flgAp_reverse_1130885_[HIPP|W|Human inference of promoter position]_Weak
+
+cgcaaaatgggtcgctatttatgccgttgatggtcattgcggacaggtacaattcacgttGtagaaatggctgggggcgaa
+
+
+
+>ECK120016580_flgBp_forward_1130993_[HIPP|W|Human inference of promoter position]_Weak
+
+gacccattttgcgtttattccgccgataacgcgcgcgtaaaggcatttaagctgatggcaGaattttgatacctgcggagg
+
+
+
+>ECK120016702_flhBp_reverse_1966216_[TAS|W|Traceable author statement]_[HIPP|W|Human inference of promoter position]_Weak
+
+cgcctgttttgccccttactcaaaccattgaacgctttgcgctctggcatcattcacgctTaatactctttccaggattgg
+
+
+
+>ECK120010198_flhDp_reverse_1978395_[TIM|S|Transcription initiation mapping]_Strong
+
+tattgaaaatcgcagcccccctccgttgtatgtgcgtgtagtgacgagtacagttgcgtcGatttaggaaaaatcttagat
+
+
+
+>ECK120010507_fliAp1_reverse_2001819_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cccctcatttcacccactaatcgtccgattaaaaaccctgcagaaacggataatcatgccGataactcatataacgcaggg
+
+
+
+>ECK120010547_fliDp_forward_2003817_[HIPP|W|Human inference of promoter position]_Weak
+
+ttttctctgccccttattcccgctattaaaaaaaacaattaaacgtaaactttgcgcaatTcagaccgataaccccggtat
+
+
+
+>ECK125108718_fnrSp_forward_1409129_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cgccgcaaagtttgagcgaagtcaataaactctctacccattcagggcaatatctctcttGcaggtgaatgcaacgtcaag
+
+
+
+>ECK120010309_focAp3_reverse_954814_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+taaaatcaaatagcctacgcaatgtaggcttaatgattagtctgagttatattacggggcGtttttttaatgccccgcttt
+
+
+
+>ECK120010276_folAp_forward_49799_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttcctcaacatcatcctcgcaccagtcgacgacggtttacgctttacgtatagtggcgacAattttttttatcgggaaatc
+
+
+
+>ECK120010243_fprp_reverse_4114499_[HIPP|W|Human inference of promoter position]_Weak
+
+tcgattgagccttccagtccttcgggactggaatttttttgttcggagaacgaagataagGcaagtcaatcaaaacaggag
+
+
+
+>ECK120010120_frdAp_reverse_4382412_[TIM|S|Transcription initiation mapping]_Strong
+
+taaaaaaatcgatctcgtcaaatttcagacttatccatcagactatactgttgtacctatAaaggagcagtggaatagcgt
+
+
+
+>ECK125138034_frdDp7_reverse_4379474_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctctgctgcacaccaaaacctggtttgaactggcaccgaaagcggccaatatcattgtaaAagacgaaaaaatgggaccag
+
+
+
+>ECK125160646_frrp_forward_192814_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aatagcctaataatccagacgattacccgtaatatgtttaatcagggctatacttagcacActtccactgtgtgtgactgt
+
+
+
+>ECK120034548_frsAp_forward_256502_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+caacgcctggcactgccgggcgttgttctttttaacttcaggcgggttacaatagtttccAgtaagtattctggaggctgc
+
+
+
+>ECK125137688_ftsHp4_reverse_3326978_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ctaaccgggagatttcagacgaaagtttgaaagatgctggatatagagtatcctgacgctGtttttaacacagttgtaata
+
+
+
+>ECK120033247_ftsKp1_forward_933138_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+aagacgcgctaacacggaacaggtgcaaaatcggcgtattttgattacactcctgttaatCcatacagcaacagtactggg
+
+
+
+>ECK120033248_ftsKp2_forward_932929_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aattcaataccgctgtacaaaaacttgaagaaattcaggagtgtcatttagtatccggtgAtttcgactacctgttgaaaa
+
+
+
+>ECK120015390_ftsKp3_forward_933218_[AIPP|W|Automated inference of promoter position]_Weak
+
+ggtaacctggtactgttgtccgttttagcatcgggcaggaaaagcctgtaacctggagagCctttcttgagccaggaatac
+
+
+
+>ECK120010260_ftsQp1_forward_102867_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tactcggtgaagaaattttaccgtcaatacgtattcaaccgtccggaaccttctatgattAtgaggcgaagtatctctctg
+
+
+
+>ECK120011033_fumAp_reverse_1688440_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+caaaaagtcgtactagtctcagtttttgttaaaaaagtgtgtaggatattgttactcgctTttaacagggcaacggaacac
+
+
+
+>ECK120010217_fumBp_reverse_4347348_[ICA|W|Inferred by computational analysis]_Weak
+
+tataaatgcactttgcgtgccgcccgtgactacgcggcacgccattttcgaataacaaatAcagagttacaggctggaagc
+
+
+
+>ECK125141980_fumCp1_reverse_1686654_[TAS|W|Traceable author statement]_[HIPP|W|Human inference of promoter position]_Weak
+
+gggcggtttttttacatggcacgaaagaccaaacatttgttatcaaatggtaaataataaGtgagctaaaagttgcttaac
+
+
+
+>ECK120010186_furpa_reverse_710716_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+acaatatttgccagggacttgtggttttcatttaggcgtggcaattctataatgatacgcAttatctcaagagcaaattct
+
+
+
+>ECK120009914_gabDp1_forward_2791172_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ggcagcgacatcagcaattcctattggtgcgcatattgtcagcaaggtacaaacgctgttGgcaagccagagtaaccccgg
+
+
+
+>ECK120010707_gadBp_reverse_1572072_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tatttaaacacgagtcctttgcacttgcttactttatcgataaatcctacttttttaatgCgatccaatcattttaaggag
+
+
+
+>ECK120049202_gadEp3_forward_3657800_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_[IEP|W|Inferred from expression pattern]_Strong
+
+ttagccatttcaaacattatcatggctgatattttccgtagtcaggtttaatgttttaaaAgtgctgtgggaaagtgaaca
+
+
+
+>ECK125095186_gadEp4_forward_3658062_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ccaattgccagcttaagtcgaaacaaggagactcgatatttaaatcggattacattttaaCtttagtaatattcttcagag
+
+
+
+>ECK120010122_galEp1_reverse_792081_[TIM|S|Transcription initiation mapping]_[FP|S|Footprinting]_Strong
+
+gattccactaatttattccatgtcacacttttcgcatctttgttatgctatggttatttcAtaccataagcctaatggagc
+
+
+
+>ECK120009842_galRp_forward_2976569_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tcccacgatgaaaacacgccaccccttgaaccaacgggcgttttccgtaacactgaaagaAtgtaagcgtttacccactaa
+
+
+
+>ECK120010121_galSp_reverse_2241710_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tttccattgctgtgactcgattcacgaagtcctgtattcagtgctgacaaaatagccgccAgcaagcagtcatttactgca
+
+
+
+>ECK120010521_gapAp1_forward_1862735_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gtcgcaatgattgacacgattccgcttgacgctgcgtaaggtttttgtaattttacaggcAaccttttattcactaacaaa
+
+
+
+>ECK120010522_gapAp3_forward_1862597_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tgcacctaaatcgtgatgaaaatcacatttttatcgtaattgccctttaaaattcggggcGccgaccccatgtggtctcaa
+
+
+
+>ECK120010523_gapAp4_forward_1862526_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tgactgattctaacaaaacattaacaccaactggcaaaattttgtcctaaacttgatctcGacgaaatggctgcacctaaa
+
+
+
+>ECK120015472_gclp_forward_533907_[AIPP|W|Automated inference of promoter position]_Weak
+
+gcggagcgggtttttttgacaaaatttgaaagttggaaaaattttccaataaatagaggtAggaataaaatggcaaaaatg
+
+
+
+>ECK120010229_gcvAp_reverse_2942639_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+aagtgccgccactataggtatttgctggtagaagctcaacggacaatttataatggctcaGattaaaaaaactaataggtt
+
+
+
+>ECK120010677_gcvRp_forward_2599879_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aagcagacagaaccgttctgattgttgtatgcatgttttttttatgctttccttaagaacAactcaccccttaaaggaata
+
+
+
+>ECK125165390_gcvRp2_forward_2599806_[TIM|S|Transcription initiation mapping]_Strong
+
+acttcccgtgaacatgggccatcctctgtgcaaacaagtgtctcaatggtacgtttggtaTggcattaaaagcaagcagac
+
+
+
+>ECK120010228_gcvTp_reverse_3050772_[TIM|S|Transcription initiation mapping]_Strong
+
+atgtgatgatcaattttaccttatggttaacagtctgtttcggtggtaagttcaggcaaaAgagaacgattgcgttgggga
+
+
+
+>ECK125203423_gfcAp_reverse_1050702_[TIM|S|Transcription initiation mapping]_Strong
+
+ttcgtaacaatttccttatctttaatttgtattttgctaagatttatcttatgctcacaaGtcgtatttccagagggggat
+
+
+
+>ECK125136710_gfcDp3_reverse_1048118_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gattatctgcaagatcacccccgccttgcaggcgcggacaagaataacgttatggtgattAcgcctgagggtgagactgtc
+
+
+
+>ECK125136732_ghrAp6_forward_1097824_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tggttttaataagcgaaatctgctttttttgccaccgaccacggatttgttatgctggtgGcctttgtagatcataacgat
+
+
+
+>ECK120010635_glcDp_reverse_3128076_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ggtctgaccggtagctaaagagatagacgaaaacgaaaagcccgcttaataactgttcacAgaagcagcgcgcaaaaatca
+
+
+
+>ECK125134704_glgAp_reverse_3568392_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gtggtgccggaactggatatgtacgatcgcaattggccaattcgcacctacaatgaatcaTtaccgccagcgaaattcgtg
+
+
+
+>ECK120010187_glgCp1_reverse_3569389_[TIM|S|Transcription initiation mapping]_Strong
+
+ctggggagtggcacgccattcccccattcgctggagaggataacccagtgattacggctgTctggcagggacctgcacacg
+
+
+
+>ECK120015382_glkp_reverse_2509461_[HIPP|W|Human inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+ttacagggagcctgcctttccggcgttgttgttatgcccccaggtatttacagtgtgagaAagaattattttgactttagc
+
+
+
+>ECK120010584_glmUp1_reverse_3915223_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ctgtccatttcacgatgaaaaaaatgtagttttttcaaggtgaagcggtttaaattcgttCtcaaattacagtcaggacgc
+
+
+
+>ECK120010585_glmUp2_reverse_3915326_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aaattaaggtactgccttaattttctgcagacaaaaggcgtgacgatggtcgaaaatggcGctttcgtcagcggggataat
+
+
+
+>ECK120030810_glmZp_forward_3986432_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttatctcataacaagtgttaagggatgttatttcccgattctctgtggcataataaacgaGtagatgctcattccatctct
+
+
+
+>ECK120010569_glnBp1_reverse_2687441_[TIM|S|Transcription initiation mapping]_Strong
+
+cacgagctggatgcaaacgatttcaaggaatgaattggcgttatgtgttacgtttagcagAtcaaaagacaggcgaccttt
+
+
+
+>ECK120010159_glnBp2_reverse_2687503_[TIM|S|Transcription initiation mapping]_Strong
+
+tcacccacgcggcgagaatggcggggcgcaaccggacagaattttataaactgctttcccGacacgagctggatgcaaacg
+
+
+
+>ECK125137620_glnEp6_reverse_3199801_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ttgccacgcctgacgcgtgatattgactcaatactgttgctggcgggttactatgatcctGtcgtcgcgcaagcctggctg
+
+
+
+>ECK120011000_glnLp_reverse_4056371_[TIM|S|Transcription initiation mapping]_Strong
+
+ttttctccgtcaattctctgatgcttcgcgctttttatccgtaaaaagctataatgcactAaaatggtgcaacctgttcag
+
+
+
+>ECK120033614_glnSp2_forward_705999_[IDA|S|Inferred from direct assay]_Strong
+
+aagcggtggagatcttctctgccgctttttttttcatcaatcatccccataatccttgttAgattatcaattttaaaaaac
+
+
+
+>ECK120015424_gloAp_forward_1727801_[HIPP|W|Human inference of promoter position]_Weak
+
+ttacccgacgttgtaatccaacattgcgagcggcgtaaagccgccgctatactaaaacaaCattttgaatctgttagccat
+
+
+
+>ECK125136401_gloBp5_reverse_234926_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcaattgatttctgcgcttaaattgccaatcttaagcagatgaaaaccatacattttagtGaaccacgggttgagctggcg
+
+
+
+>ECK120010240_gltBp_forward_3354509_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+acatttctgtaccaataagcttgccatttgacctgtatcagctttcccgataagttggaaAtccgctggaagctttctgga
+
+
+
+>ECK120016706_gltIp1_reverse_687896_[HIPP|W|Human inference of promoter position]_[IC|W|Inferred by curator]_Weak
+
+aataggctgattcaaggcatttacgggagaaaaaatcggctcaaacatgaagaaatgaaaTgactgagtcagccgagaaga
+
+
+
+>ECK125137886_gltSp3_reverse_3828691_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cgatacccgtcatagttcatgaagttgccactgcgcgatgaagtatgacgagtatgaaagAgtgatgcggatacaaaggag
+
+
+
+>ECK120048894_gmkp_forward_3821388_[TAS|W|Traceable author statement]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tgcgcaaaaagtgtgagcaagggctacgtcacatggccgcgccgtgtataataagctcgtAtgtaggctttatttcgctaa
+
+
+
+>ECK120010055_gntPp_reverse_4551334_[TIM|S|Transcription initiation mapping]_Strong
+
+tgatcagaggatgtgacattcatcgcaacaatggttgaccaatttacataacatatcgccCaaaataacaacggttcaacc
+
+
+
+>ECK120010030_gntRp2_reverse_3578818_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gcttccggggttttgccgcgtcgttagcacaatgcgatgcaattgatttagtgtatatctAataattgtaaacaagcactg
+
+
+
+>ECK120010271_gntTp1_forward_3546405_[TIM|S|Transcription initiation mapping]_Strong
+
+tttaaatttaccccgctctggtgattctcaaacgccagatgttacccgtatcattcacatGggtaccaaacatactcctga
+
+
+
+>ECK120010056_gntXp_forward_3544667_[AIPP|W|Automated inference of promoter position]_Weak
+
+ctaaccaaatggctttatcaggtgcctgttgcagcacggcttcggccatatcagcaagtgAcagcgcaccaaatccccggc
+
+
+
+>ECK120009959_gpmAp_reverse_787632_[AIPP|W|Automated inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tattttcgctatggttatgcgtaagcattgctgttgcttcgtcgcggcaatataatgagaAttattatcattaaaagatga
+
+
+
+>ECK125137872_gpsAp5_reverse_3783810_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcgggtatcgaaggcacccagatggcgcattgcctgggagcatactgcccgaacattctgTtcccgtatgctcgtgagtgc
+
+
+
+>ECK120034547_gptp_forward_255914_[HIPP|W|Human inference of promoter position]_Weak
+
+taaaaagacgcggactcatgtgaaatactggtttttagtgcgccagatctctataatctcGcgcaacctattttcccctcg
+
+
+
+>ECK120009863_grcAp1_reverse_2716523_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+tgtgtggtttttattgatttaaatcaaagattcaagggtgtttgaggagtatatatacacTcaagcaacaatggttttacc
+
+
+
+>ECK125095452_greAp1_reverse_3328864_[TIM|S|Transcription initiation mapping]_Strong
+
+acggcgcaacgccctataaagtaaacgatgacccttcgggaacttcagggtaaaatgactAtcaaaatgtgaattgtagct
+
+
+
+>ECK125137874_grxCp2_reverse_3784576_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaggcgtcgctggctgggctggcgaaaacttgcctttggtgcgcggcaaataatttacctGtcgtctttcatgatgcaggc
+
+
+
+>ECK125095208_grxD_reverse_1734162_[AIPP|W|Automated inference of promoter position]_Weak
+
+gcaacaaatagagcaaagggataaaatagcaaaagcgtgatgaaaatgttattttccgatGccgcactgacccgctacaat
+
+
+
+>ECK120010403_gyrBp_reverse_3880150_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+atagacatgtcggacgaaaattcgaagatgtttaccgtggaaaagggtaaaataacggatTaacccaagtataaatgagcg
+
+
+
+>ECK120010767_hdeAp_reverse_3656791_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tctgattttgatattttccatcaacatgacatatacagaaaaccaggttataacctcagtGtcgaaattgattcgtgacgg
+
+
+
+>ECK125257034_hemBp_reverse_389754_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tgtcaacatcgcgacaactttcgtaaaacatccctaccctgcttcaggtatactatgcccCtcgattccacaaacatcagg
+
+
+
+>ECK120029524_hemHp_forward_498031_[TIM|S|Transcription initiation mapping]_Strong
+
+tgatttgacctctcacagcaattagttcttcttcctcacttttccgctacaattatcaacAagttgaatcgataagaggcg
+
+
+
+>ECK120033631_hepAp2_reverse_63588_[IDA|S|Inferred from direct assay]_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IEP|W|Inferred from expression pattern]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+agaaaaccaaaagcgtggtcgccccttgcaatatcagaatcgcggcaccattaagtacgtAtggaccaccaacggcccgga
+
+
+
+>ECK125136499_hhap6_reverse_480503_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atgaactgattgagcatattgcgaccttcgcacttaattacaaaattaagtataatgaagAcaataagctcattgagcaga
+
+
+
+>ECK125140836_higBp_reverse_3234480_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttccgtcacacagataaattcatccgttgccaatctggcaacggatgttatcatattgccAatttgtcaacggacgtgatg
+
+
+
+>ECK125136758_hinTp1_forward_1161821_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tttttgcttaagaaatcgtgagttaaggttgaaagagcaggtttaactcgaccatactctAtactcgcagtgtggcgcggc
+
+
+
+>ECK120016954_hipBp_reverse_1592482_[TIM|S|Transcription initiation mapping]_Strong
+
+gtagagcggataagatgtgtttccagattgacttatcctcactaaaggataaaacttataAtatccccttaagcggataaa
+
+
+
+>ECK120010349_hisBp_forward_2093360_[TIM|S|Transcription initiation mapping]_Strong
+
+ggcgcgctttaaagcctccagtgcggtgtttaaatctttgtgggatcagggcattatcttAcgtgatcagaataaacaacc
+
+
+
+>ECK120030804_hisJp_reverse_2426837_[TIM|S|Transcription initiation mapping]_[IEP|W|Inferred from expression pattern]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+atacgtctaacggggcgggatattttgccttgatggtcaattttatggcacgataagtgtAacaaacctgtaaatattccc
+
+
+
+>ECK120010361_hisSp_reverse_2640642_[TIM|S|Transcription initiation mapping]_Strong
+
+agcaggttgaaaaataataacgtgatgggaagcgcctcgcttcccgtgtatgattgaaccCgcatggctcccgaaacattg
+
+
+
+>ECK125136354_hokCp4_reverse_16951_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gatagagaaaagccccgagtgatattttaccatcaacccgaggcctcctatatgctgaacAcatgtagagtgcctcttact
+
+
+
+>ECK125137134_holEp6_forward_1925086_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgagtcgaggatcatcaattccggcttgccatcctggctcactcttagtaacttttgcccGcgaatgatgaggagattaag
+
+
+
+>ECK120009917_hptp_forward_141360_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+acaattcgagctttattaacagattccgcgaatgaatagttttactggtatactgcgtgtCttgcgctttgttgcggtgcc
+
+
+
+>ECK120010517_hscBp_reverse_2659524_[TIM|S|Transcription initiation mapping]_Strong
+
+cggcgaaagcttccacgtttgatgcgcataccgataaccccaccgtggtcgcctgcgcgtGgggtttgttttacctgattc
+
+
+
+>ECK120029868_hslJp_reverse_1441780_[TIM|S|Transcription initiation mapping]_Strong
+
+ctgcattccaggggagctgattcagataatccccaatgacctttcatcctctattcttaaAatagtcctgagtcagaaact
+
+
+
+>ECK120010728_hupBp2_forward_461395_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tcgggcttgcccttattaaggggtgttgtaaggggatggctggcctgatataactgctgcGcgttcgtaccttgaaggatt
+
+
+
+>ECK120010729_hupBp3_forward_461332_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cagggctggcaggctaattcgggcttgccagcctttttttgtctcgctaagttagatggcGgatcgggcttgcccttatta
+
+
+
+>ECK125137466_hycIp4_reverse_2843102_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+attcgataaagcccgggcagcgcaaacttcgcagcagcaggaatggagtacaatgctgttAagtatgctgcatgatattca
+
+
+
+>ECK120030664_hypFp3_reverse_2838105_[IDA|S|Inferred from direct assay]_Strong
+
+taaaaactggcatgatttgtgaatgtatcggcgcattaactgtcattgctggagaatttgAtgaaccgtttcatcattgct
+
+
+
+>ECK125138091_hypTp4_reverse_4558317_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaaggaacgtttgaaacggcttaaacggttgtcagccgcccgaatggacgtagaatgcccGcaagggcggctgacagagta
+
+
+
+>ECK125137693_ibaGp4_reverse_3336983_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gtgacgcttcagggggtaaacgacaaagtgtataccctggcgaaattgtataatttgcctGctgatgttctgcctcgttaa
+
+
+
+>ECK120030653_ileSp1_forward_21833_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+gtaggtgatgatttccgctttggcgctggtcgtgaaggcgatttcttgttattacagaaaGctggcatggaatacggcttc
+
+
+
+>ECK120010599_ileXp_forward_3215597_[HIPP|W|Human inference of promoter position]_Weak
+
+acagcaggcgcgcggtaatggctggattgcgacacggagttactttataatccgctaccaTggccccttagctcagtggtt
+
+
+
+>ECK120010153_ilvIHp1_forward_85600_[TASES|W|Traceable author statement to experimental support]_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gtgtttatgtctctggctgccaattgcttaagcaagatcggacggttaatgtgttttacaCattttttccgtcaaacagtg
+
+
+
+>ECK120010278_ilvIp3_forward_85453_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tgggctctctattttaggattaattaaaaaaatagagaaattgctgtaagttgtgggattCagccgatttattatcaattt
+
+
+
+>ECK120010277_ilvIp4_forward_85420_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttttattgaatgtagaattttattctgaatgtgtgggctctctattttaggattaattaaAaaaatagagaaattgctgta
+
+
+
+>ECK120010418_ilvLp1_forward_3950218_[TIM|S|Transcription initiation mapping]_Strong
+
+aaattgaatttttttcactcactattttatttttaaaaaacaacaatttatattgaaattAttaaacgcatcataaaaatc
+
+
+
+>ECK120010419_ilvLp2_forward_3950290_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ataaaaatcggccaaaaaatatcttgtactatttacaaaacctatggtaactctttaggcAttccttcgaacaagatgcaa
+
+
+
+>ECK120010128_ilvYp_reverse_3957867_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_[IEP|W|Inferred from expression pattern]_Strong
+
+gtttgcgagattgaattcactatatgacaggaaatttattgcggaaattgatatattcacAacgtcacattgcaatttttg
+
+
+
+>ECK120016570_infAp2_reverse_926479_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+tttgttgcgatttagcgcgcaaatctttacttatttacagaacttcggcattatcttgccGgttcaaattacggtagtgat
+
+
+
+>ECK120009955_infCp2_reverse_1800818_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+gcgggcattcgtgttaaagcagacttgagaaatgagaagattggctttaaaatccgcgagCacactttgcgtcgcgtccca
+
+
+
+>ECK125138074_insGp6_reverse_4503549_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcaatccacataacaaaacgcgttttgttactgatgtcacaaattgagcatatttttgtaGctgatagtttgttacaaaca
+
+
+
+>ECK125137573_insHp4_forward_3130025_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cgcccaactatctgccccgctttttttgccacccacgcctgccagatgatatggtccgtcCccggatttttcgcagacaaa
+
+
+
+>ECK125136542_insHp4_reverse_575774_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctttcgttgattacaaaatcaacctgcttgacaaaaatgacttcactaaggaaggtgcgaAcaagtccctgatatgagatc
+
+
+
+>ECK125137210_insHp4_reverse_2103093_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cgcagatgatgattacattttgtttttgaatcccgatatcatcatgaagcatgatgatttGctgacatatattaaatatgt
+
+
+
+>ECK125136416_insHp5_reverse_275298_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcttcagtggcgcattttgttgtgttgtttgcatataaccttctaaacgtatggacatctAaacatccaaagaaggtttgt
+
+
+
+>ECK125138079_insIp5_reverse_4508686_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaattctgcaactgcgtaaggcgttaaatgaagctcgccttgagcgagatatattaaaaaAagcaactgtagattcaattg
+
+
+
+>ECK125136352_insLp5_forward_15380_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gggcaggcctgggtaaaaatagggtgcgttgaagatatgcgagcacctgtaaagtggcggGgatcactcccataagcgcta
+
+
+
+>ECK125134715_intSp_forward_2466515_[TIM|S|Transcription initiation mapping]_Strong
+
+ttcgtcatggttcgcttcagatcgttgacagccgcactccatgacgggtaaaaagtggatAaaataattttacccaccgga
+
+
+
+>ECK120022001_iraDp2_forward_4556856_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gacttttttcctgaaaagtcagtagatattcataggcaagtaaggttttatactttgctgAcaggattcaggcctgtctca
+
+
+
+>ECK120030215_iraPp1_forward_401319_[TIM|S|Transcription initiation mapping]_[NTAS|W|Non-traceable author statement]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gctggtaatcaaacaaaaaatatttgcgcaaagtatttcctttgtcataaaaataatactTccagacactatgaagttgtg
+
+
+
+>ECK120015163_istR-2p_reverse_3853257_[TIM|S|Transcription initiation mapping]_Strong
+
+actgtataaataaacagtaatatttggacaaaacgcaaactgtgatcgatactcaactatGcactaaatacgtcaaaattc
+
+
+
+>ECK120010127_ivbLp_reverse_3853023_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+cctcaattttcccttgctgaaaaattttccattgtctcccctgtaaagctgtgcttgtatAaatattgttaaacacaaaac
+
+
+
+>ECK120011002_katGp_forward_4133812_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+atcgcatccgtggattaattcaattataacttctctctaacgctgtgtatcgtaacggtaAcactgtagaggggagcacat
+
+
+
+>ECK120010156_kblp_reverse_3792577_[TIM|S|Transcription initiation mapping]_Strong
+
+tttgcagaagtgttaacgcgttatctcgtcgcgacctataagtttgggtaatatgtgctgGaatttgccctgtctggagaa
+
+
+
+>ECK125137120_kdgRp9_reverse_1910140_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+attgtaactaaccggcaaaagatggattgcgaccaccctggtgcgaaattataataaaaaAcagttctgatttttataaaa
+
+
+
+>ECK125136601_kdpEp3_reverse_721894_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cttccgccaggccaggagcagacgatatttgataagtttgctcgcgggaataaagagtcgGcagtaccgggggtagggctt
+
+
+
+>ECK120010694_kdsAp_forward_1267854_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+aatatcagcccgtcggcggaactgttttatgaagaccttgatgaagctgataacattgagGtaatccgcaaattgctggat
+
+
+
+>ECK125135016_kdsCp2_forward_3342010_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttgctggaagttacccgcaaaaatcttggtatgactgtcatttgcgatgacaatatgatgAttgaaggcatctttaccgac
+
+
+
+>ECK125135017_kdsCp3_forward_3341719_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+cgcccggagagcagcatggcgcgcgccgcagatgtgcatctgtgtgttaaagtagcgaaaGaagcctgtccgttagggctg
+
+
+
+>ECK125137507_kduIp5_reverse_2984194_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaatgaaacattgttttatttttaattgaaaaccctagcccatgggcatatcatccctttAtagagaaaacgaaacagtgt
+
+
+
+>ECK125137429_kgtPp6_reverse_2725809_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctaactaaattcatggttaaggttgcataatgatatgcaacaaatgtataatatttccttTacaaaaaaaataaacaaaag
+
+
+
+>ECK120010130_lacZp1_reverse_366343_[TIM|S|Transcription initiation mapping]_Strong
+
+gctcactcattaggcaccccaggctttacactttatgcttccggctcgtatgttgtgtggAattgtgagcggataacaatt
+
+
+
+>ECK125165942_lapAp2_forward_1340186_[TIM|S|Transcription initiation mapping]_Strong
+
+atcatcaacaatgcgtgtggatgccatttcgcagacggcgcgaaaatggtactttaaaggGctattgcggtaagttgacca
+
+
+
+>ECK125136826_ldrAp8_reverse_1269477_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ttgaaaaaccggaatgcactcttcattgcaaacatttcagggatgaagtgaagatgaattGagtcgtagtatccacaccaa
+
+
+
+>ECK120034384_leuOp_forward_84188_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+cgcggtagttatgattagattgttttcgcaacaaaaacattatggattattatgctgtggTaaatgactcattccacggca
+
+
+
+>ECK120010618_leuQp_reverse_4606432_[HIPP|W|Human inference of promoter position]_Weak
+
+cacctctgtcgataattaactattgacgaaaagctgaaaaccactagaatgcgcctccgtGgtagcaattctttttaagaa
+
+
+
+>ECK125137167_leuZp3_reverse_1992050_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tagctcagttggtagagcacgaccttgccaaggtcggggtcgcgagttcgagtctcgtttCccgctccagtttaaaagaca
+
+
+
+>ECK125230251_lgtp_reverse_2966121_[TIM|S|Transcription initiation mapping]_Strong
+
+tcatatacatatcttttaacggtatccggcaaccagccaggtccccttgtgctattattcGcacctttggagcgcctgaaa
+
+
+
+>ECK120010241_livJp_reverse_3599762_[TIM|S|Transcription initiation mapping]_Strong
+
+attgttaataaactgtcaaaatagctattccaatatcataaaaatcgggtatgttttagcAgagtatgctgctaaagcacg
+
+
+
+>ECK120010666_lldPp_forward_3777289_[TIM|S|Transcription initiation mapping]_Strong
+
+tttcccaattaaaactcacatcaatgttgccaatacataacatttagttaaccattcattGtcattatccctacacaacac
+
+
+
+>ECK125145768_lolAp_forward_937328_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aactgaaaattcagtattttcttctttcctcaagctgattattagcctggaatagagagtAgagggaactcccgatcggga
+
+
+
+>ECK120010455_lonp_forward_458815_[IDA|S|Inferred from direct assay]_[HIPP|W|Human inference of promoter position]_[IEP|W|Inferred from expression pattern]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+taatttttcctctattctcggcgttgaatgtgggggaaacatccccatatactgacgtacAtgttaatagatggcgtgaag
+
+
+
+>ECK125135018_lptAp2_forward_3343299_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+agatcaatctggtgacgcaggatgttacctctgaagacctcgtcacgttatacggaacaaCatttaactccagcggtctga
+
+
+
+>ECK125138066_lptFp5_forward_4486188_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gatttcgacgactcaagagaataaatgacgtttaagccatgaaacaagctaaaatcctgcAaaagacgagtttttacgggc
+
+
+
+>ECK125138067_lptFp6_forward_4486122_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tacggcattggcacgtcagaacaaaatctgagaggtgaatccgttgagtataattatcttAgcgacgatttcgacgactca
+
+
+
+>ECK120029295_lspAp_forward_25014_[IDA|S|Inferred from direct assay]_[TIM|S|Transcription initiation mapping]_[ICWHO|W|Inferred computationally without human oversight]_Strong
+
+tgggcgatgaattacgatttgtcctgttgacctccggcgctaccgttgcagactataacgAcgcacctgctgatgctcagc
+
+
+
+>ECK120034947_lsrRp_reverse_1601257_[AIPP|W|Automated inference of promoter position]_[IEP|W|Inferred from expression pattern]_Weak
+
+ccatcacagatataaatgagcaagaactgaacaattgcattaaagatttaaatatgttcaAagtgaagaatgaattatgac
+
+
+
+>ECK120010648_lysCp1_reverse_4233539_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+atgaaaaatccgcatgaccccatcgttgacaaccgccccgctcaccctttatttataaatGtactacctgcgctagcgcag
+
+
+
+>ECK120010647_lysCp2_reverse_4233616_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ccgttagcgtaatgttgagtgtaaacccttagcgcagtgaagcatttattagctgaactaCtgaccgccaggagtggatga
+
+
+
+>ECK120010688_lysPp_reverse_2248560_[TIM|S|Transcription initiation mapping]_Strong
+
+gtgtcttataaccgtgtatttctgccggaaggattgccaatcgtctgctacaatcgcgccTcatttttaagatggatagca
+
+
+
+>ECK120011040_lysRp_forward_2978950_[AIPP|W|Automated inference of promoter position]_Weak
+
+aatgtggcataacaaactccagataagtgcttttttatgattacgccacatcataaaaagAataaaaaatatcgatttatg
+
+
+
+>ECK120010589_lysTp_forward_780514_[HIPP|W|Human inference of promoter position]_Weak
+
+gtgatctacatcgaaatttttgttgcgctcaagtctgaaatcagtaatatatgccgccgtTgccacgggatatcaaacaaa
+
+
+
+>ECK120010265_lysUp1_reverse_4354805_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gatggttatttattagtgatatcaacttgaggtaagcgttagtttcgataagataaactgAgttactaatagtcgaggcag
+
+
+
+>ECK125136483_makp4_forward_410118_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgataacgaattgtcggcggccttgcattgccaatccggttgtccgtctctacgctattgAtattgaaaaaaataaggaga
+
+
+
+>ECK120010132_malEp_reverse_4246464_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cggtggggcgtaggggcaaggaggatggaaagaggttgccgtataaagaaactagagtccGtttaggtgttttcacgagca
+
+
+
+>ECK120011041_malIp_reverse_1699228_[TIM|S|Transcription initiation mapping]_Strong
+
+aaattttagtgaggcataaatcacattacgcaacgataatagcgggtataagataaataaAaggtaaaacgttttatctgt
+
+
+
+>ECK120010133_malKp_forward_4246736_[TASES|W|Traceable author statement to experimental support]_[IMP|W|Inferred from mutant phenotype]_Weak
+
+ccataaaaaagccagggggtggaggatttaagccatctcctgatgacgcatagtcagcccAtcatgaatgttgctgtcgat
+
+
+
+>ECK120010134_malPp_reverse_3552510_[IMP|W|Inferred from mutant phenotype]_[AIPP|W|Automated inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tccctgcctaatcccccgcaggatgaggaaggtcaacatcgagcctggcaaactagcgatAacgttgtgttgaaaatctaa
+
+
+
+>ECK120010326_manAp_forward_1688551_[TIM|S|Transcription initiation mapping]_Strong
+
+cgactttttgcggctccaggttacttcccgtaggattcttgctttaatagtgggattaatTtccacattaaaacagggatt
+
+
+
+>ECK120010247_manXp_forward_1901933_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gaaagttaaattacggatcttcatcacataaaataattttttcgatatctaaaataaatcGcgaaacgcaggggtttttgg
+
+
+
+>ECK125136442_matAp10_reverse_311460_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+attgaattccttttccgttcacatattgacactcatcgggaaaaaaaacataaatttaagCccaatcgaaaataattaaac
+
+
+
+>ECK125136799_mcrAp8_forward_1210319_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+acaaaagaaagtaaaacaacagcaacttgttgcaattttatcaataaaagtagtattgtcGtgaaaaattgattaaagatt
+
+
+
+>ECK125137607_mdaBp5_forward_3172506_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaagactttgcacattttgctaatttcaccgtaccgctctgtgacgtactatagtcggcaAacgtctcaccttgaggttaa
+
+
+
+>ECK125137608_mdaBp7_forward_3172407_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+taagaattatgaggaatggctatcagtattgtcattttcagaaaatatttatcctgcatcGgtgagtcagagtaagatcag
+
+
+
+>ECK125137039_mdtKp9_forward_1743375_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaggggtaagaatggctattttttcactggagaattaataaatcctcgctacaatagactGaatttcccctgcttcttctt
+
+
+
+>ECK120010194_melAp_forward_4341887_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+tgggaatgctcaacctggaagccggaggttttctgcagattcgcctgccatgatgaagttAttcaagcaagccaggagatc
+
+
+
+>ECK120010135_melRp_reverse_4341650_[TIM|S|Transcription initiation mapping]_Strong
+
+agggtgaaaaccgtgctcccactcgcagtcatcctccctcactcctgccataattctgatAttccaggaaagagagccatc
+
+
+
+>ECK120009850_menAp_reverse_4120406_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+catctggatgcgttggtggcagatgaagatctgagccgttttatcctataatcgcgttcaAtcattttcatcattgtttga
+
+
+
+>ECK120010090_menBp_reverse_2376887_[AIPP|W|Automated inference of promoter position]_Weak
+
+ctggcggcggaactggctgccgactgccatgtcattcctcgcgccggacataacgcgcatCgggaaaatcccgctggcgta
+
+
+
+>ECK125095200_mepHp_forward_1734357_[AIPP|W|Automated inference of promoter position]_Weak
+
+atttttttgcgctcgccaacgaaacgtattttttaacaataaaagctattaactttctctTcttctatgcattagaatcat
+
+
+
+>ECK120010062_metAp2_forward_4214159_[TIM|S|Transcription initiation mapping]_Strong
+
+gtgagcggcgaatactaataaccattttctctccttttagtcattcttatattctaacgtAgtcttttccttgaaactttc
+
+
+
+>ECK120011003_metFp_forward_4132546_[TIM|S|Transcription initiation mapping]_Strong
+
+tttcctcaccatcattggtcatttttcggttgacgcccttcggcttttccttcatctttaCatctggacgtctaaacggat
+
+
+
+>ECK120034265_metGp_forward_2194269_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+tttacctgaagaatatagagaagtacttacttaacattttcccatttggtactatctaacCccttttcactattaagaagt
+
+
+
+>ECK120011004_metHp_forward_4223783_[HIPP|W|Human inference of promoter position]_Weak
+
+acaaatctcatgttgcgtggtggtcgcttttaccacagatgcgtttatgccagtatggttTgttgaatttttattaaatct
+
+
+
+>ECK125140843_metHp2_forward_4223505_[TIM|S|Transcription initiation mapping]_Strong
+
+ggtgggtcgtggaattgggtaacccggcttgttgcgccagttccgtgagtgccacactgcCattggattcggcaatccact
+
+
+
+>ECK120010432_metJp2_reverse_4128529_[TIM|S|Transcription initiation mapping]_Strong
+
+catctaaacttctttgcgtatagattgagcaaatcccaaatagccgttaaaattatatgcAttatcacgccgacaggtgca
+
+
+
+>ECK120009925_metNp_reverse_222714_[HIPP|W|Human inference of promoter position]_[ICA|W|Inferred by computational analysis]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aaagtgctcttcgcataaacctgattgatttagacgtctggatgccttaacatccatttcAttgacggcgttgcccgtttc
+
+
+
+>ECK120010387_metYp1_reverse_3318297_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+cggtacaccaaatcccagcagtatttgcattttttacccaaaacgagtagaatttgccacGtttcaggcgcggggtggagc
+
+
+
+>ECK120010597_metZp_forward_2947382_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tccgtgatcggggtaaaaaaaaggttgcatgaaaacgcgagcggagtatagtgcgcatccAcggacgcggggtggagcagc
+
+
+
+>ECK120010639_mgtAp1_forward_4467363_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+cagcaatgggtaaagtctggtttatcgttggtttagttgtcagcaggtattatatcgccaTagatgctacgaatattattg
+
+
+
+>ECK120033730_miaAp1_forward_4399052_[IDA|S|Inferred from direct assay]_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IEP|W|Inferred from expression pattern]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tttacccttacgccaacaaaatttacaaatcttgattcctgaactgataggctacctggcGaagcagtccgtattcgaacc
+
+
+
+>ECK120022366_micCp_forward_1437121_[TIM|S|Transcription initiation mapping]_Strong
+
+aagataatacatacaaaataaaaattatacttttaatttgctatacgttattctgcgcggGttatatgcctttattgtcac
+
+
+
+>ECK120010351_micFp_forward_2313084_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+aagtatttgacagcactgaatgtcaaaacaaaaccttcactcgcaactagaataactcccGctatcatcattaactttatt
+
+
+
+>ECK120010771_mlcp1_reverse_1668603_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gttaatcacatgcctaagtaaaaatttgacgacacgtattgaagtgcttcaccatagcctAcagattatttcggagcgcga
+
+
+
+>ECK125122037_mlrAp_forward_2214840_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tagatgcacaaaaaacgggcaaaactacctggttcgcaaaactgcgtctaaagttaaaccGggacctcgcgagcaagggtg
+
+
+
+>ECK125137496_mltAp6_reverse_2947273_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cccgatcacggatttggcatgattttgaacaaaaacaaatcactaaagcctattttttgtGcaaaatttgcgtcagggaga
+
+
+
+>ECK125141559_mnmGp_reverse_3925674_[TIM|S|Transcription initiation mapping]_Strong
+
+atacccaggatcccaggtctttctcaagccgacaaagttgagtagaatccacggcccgggCttcaatccattttcataccg
+
+
+
+>ECK120015467_mntHp_reverse_2512734_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tcaccacaatccatttaaatgaatttgataatcattctcgtttggcatagcatgaaacatAgcaaaggctatgttttagag
+
+
+
+>ECK125140756_mntPp_forward_1905459_[TIM|S|Transcription initiation mapping]_Strong
+
+aagcaatgaaataatatattccaacagttgttttatattctcaaaatatgttaaggttgcGccctcatttggggagtagcc
+
+
+
+>ECK120009998_moeAp_reverse_866394_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+acccagcgctacgcccgaggtggcatacagtctgtggcgtttttctgacataataggcaaAttcgattttgcctccgcagg
+
+
+
+>ECK120009848_mplp1_forward_4455728_[HIPP|W|Human inference of promoter position]_Weak
+
+ctcaatgttgcgctcaggtgaatcgcgccagcaaattacggattatcctgaaatgcgtttCtcacttgcccgacatatgcg
+
+
+
+>ECK120009845_mraZp_forward_89596_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tatgccttgtgactggcttgacaagcttttcctcagctccgtaaactcctttcagtgggaAattgtggggcaaagtgggaa
+
+
+
+>ECK120011130_mreBp1_reverse_3401129_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttcaccgtagcagatgatttttgcgccttgtcgctgctgcgtgtggttggtaaagtaagcGgattttcttttccgccccag
+
+
+
+>ECK120030647_mreBp3_reverse_3401356_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+atattcacaaagatactcggtttaacctgccgtttaatccgttttcacgtagaataatgcGcgctgcgtctcatgggagtg
+
+
+
+>ECK125203414_mrpp_reverse_2194203_[TIM|S|Transcription initiation mapping]_Strong
+
+atagtaccaaatgggaaaatgttaagtaagtacttctctatattcttcaggtaaactatcAgctgatggtttatctataca
+
+
+
+>ECK125137090_msrBp6_reverse_1862464_[TIM|S|Transcription initiation mapping]_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+agatcaagtttaggacaaaattttgccagttggtgttaatgttttgttagaatcagtcacGtaatgtgagcacgattaaag
+
+
+
+>ECK120010246_mtlAp_forward_3772188_[HIPP|W|Human inference of promoter position]_Weak
+
+tgatatcacacaaaaggccgtcgactggacagttaaccgattcagtgccagatttcgcagTatctacaaggtccggctacc
+
+
+
+>ECK120030650_mtnp_reverse_179183_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gtgccatgtcctctcccgcgtgagaaatacgcttccccgtaagcgcatggtaaactatgcCttcaaatcgggcttatcgcg
+
+
+
+>ECK120011032_mtrp2_reverse_3305860_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tttttaccatcggggctttttttctgtcttttgtactcgtgtactggtacagtgcaatgcAtaacaacgcagtcgcactat
+
+
+
+>ECK120035117_murQp1_forward_2545733_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tgcgagtgtagactcaatgattcctttaagcctgtcaattcgggatatatgattccatacAtctgcaattatttgatcgta
+
+
+
+>ECK120035116_murRp_reverse_2545793_[TIM|S|Transcription initiation mapping]_Strong
+
+gcacatttccagcgtcgatacgcggtcaatttcagccgaggcggtgttcgagccttcagtAatcatcttttcaaattgcat
+
+
+
+>ECK125137501_mutHp7_forward_2969614_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cctaaaaagcaatataaatcagagaattgaacaacgcatgtggaaaaagttacactgcgaAtattcggcacataattgctg
+
+
+
+>ECK120010137_nagBp_reverse_703708_[TIM|S|Transcription initiation mapping]_Strong
+
+atatcgttattatcactcccttttactggctaaaccagaaaacttattttatcattcaaaAaatcaggtcggattgacgcc
+
+
+
+>ECK125136769_nagKp3_forward_1178540_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+attgttgctgagtcttttggcaagttggtatccggcgcggcgcgccagtaatattgacccTgcgcgagtccttagcggcca
+
+
+
+>ECK120010630_napFp1_reverse_2303574_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+acaggttttaccccgatcggggtatgcatctttgacacatcctttaatatcttagcggctAtaaaaatggcttattaatta
+
+
+
+>ECK120011006_narKp1_forward_1277932_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttatcttatcgtttgatttacatcaaattgcctttagctacagacactaaggtggcagacAtcgaaacgagtatcagaggt
+
+
+
+>ECK120015955_narKp2_forward_1277821_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+cgctttacatcggtaagggtagggattttacagcaccgtgaaaaatctcataatttttatGaagtcactgtactcactatg
+
+
+
+>ECK120009939_narUp1_reverse_1544124_[HIPP|W|Human inference of promoter position]_Weak
+
+tttcttatctattctttcaatcagcacttcacccaattcatccttaattctaataactggCtattgcgccttacctcgtgt
+
+
+
+>ECK120010214_narXp_reverse_1277777_[HIPP|W|Human inference of promoter position]_Weak
+
+gtgagtacagtgacttcataaaaattatgagatttttcacggtgctgtaaaatccctaccCttaccgatgtaaagcgacta
+
+
+
+>ECK120015471_narZp_reverse_1542690_[AIPP|W|Automated inference of promoter position]_Weak
+
+agtgtttttaatcttctacatcgtttgtgtgctgctgacctggctggtttatggtcggcgGaagttcagccaaaaataaga
+
+
+
+>ECK120010216_ndhp_forward_1165992_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aacttgattaacatcaattttggtatgaccaatgcaccattcatgttattctcaatagcgAagaacattttcattgctgta
+
+
+
+>ECK120034939_nemRp_forward_1726021_[TIM|S|Transcription initiation mapping]_Strong
+
+gttaatgtccaaagtagcaactttgcttgcactagaccgactggtctactacactccaacGcatgaacaaacacaccgaac
+
+
+
+>ECK120010244_nfop_forward_2250806_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+attcaaagcgtcatcgcataaaccactacatcttgctcctgttaacccgctatcattaccGttttcctccagcgggtttaa
+
+
+
+>ECK120010037_nfsBp_reverse_605453_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gaaatctatagcgcatttttctcgcttaccatttctcgttgaaccttgtaatctgctggcAcgcaaaattactttcacatg
+
+
+
+>ECK120010530_nlpDp1_reverse_2868829_[TIM|S|Transcription initiation mapping]_Strong
+
+gtgaggaaatacctggatttttcctggttattttgccgcaggtcagcgtatcgtgaacatCttttccagtgttcagtaggg
+
+
+
+>ECK120009855_nrdHp_forward_2800656_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ccactatttgctatatattgtgtggttgaatcttttttcaactacatctagtatctctgtAtcaacagagagacaacccga
+
+
+
+>ECK120010250_nrfAp_forward_4287671_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+atgcacttacaattgattaaagacaacattcacagtgtggttatttgttacacataggggCgagcaatgtcatgacagtgt
+
+
+
+>ECK120015433_nudBp_reverse_1948674_[HIPP|W|Human inference of promoter position]_Weak
+
+cgaaatcattcgcgttgcatcgaggcggcaactgagtgaactcccatgagcatagataacTatgtgaatgggatgagcgaa
+
+
+
+>ECK125137759_nudEp6_reverse_3526246_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcaaattcctggagttatttcaacctattgacttttaatttgatttgaggacgattatttAttaagttacataaatgtaaa
+
+
+
+>ECK125137308_nudIp3_forward_2364525_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tatcatcgcaaaagagattactgtcactttcacatatttgtgagttaccgtattctcatgGtttctttttatttataagga
+
+
+
+>ECK120010535_nuoAp2_reverse_2405162_[TIM|S|Transcription initiation mapping]_Strong
+
+atagaaaggagtaaaaaaccacatcaattagctgtataaaagaatttctacagtgattgtAaggttttttttattcctccc
+
+
+
+>ECK125137331_nuoNp1_reverse_2391717_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ccgttatctctacctttgggctggtctttgcatctgtttattcgctggcgatgttacatcGcgcttacttcggtaaagcga
+
+
+
+>ECK120010192_nupGp_forward_3105651_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tttgcaattatttgccacaggtaacaaaaaaccagtccgcgaagttgatagaatcccatcAtctcgcacggtcaaatgtgc
+
+
+
+>ECK120010139_ompAp1_reverse_1020191_[TIM|S|Transcription initiation mapping]_Strong
+
+tttttttcatatgcctgacggagttcacacttgtaagttttcaactacgttgtagactttAcatcgccaggggtgctcggc
+
+
+
+>ECK120010140_ompCp1_reverse_2312830_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+cttaaaagttttagtatcatattcgtgttggattattctgcatttttggggagaatggacTtgccgactgattaatgaggg
+
+
+
+>ECK120011008_ompFp_reverse_987092_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ctttatctttgtagcactttcacggtagcgaaacgttagtttgaatggaaagatgcctgcAgacacataaagacaccaaac
+
+
+
+>ECK125136907_ompNp4_reverse_1436984_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cttattatcatttcagaggaattatttgattaaggttttacttaaggcgtaacaaatgatAtttatcggctaactgaactt
+
+
+
+>ECK120010665_ompRp4_reverse_3536755_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tcatctcgttgattccctttgtctgtttgataatgcgcacattgggtataacgtgatcatAtcaacagaatcaataatgtt
+
+
+
+>ECK120034941_ompXp1_forward_850209_[TIM|S|Transcription initiation mapping]_Strong
+
+atacccaatgctggttgagcatttgttgaaaaaattttcccccgttttgactaaaatgcgCcaggattgatggaatcatta
+
+
+
+>ECK125136933_opgDp9_forward_1496776_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ttatgcatattctctcagttcaacaattggattattaataaatattgtctagagtgagcgGtcataaataagcactttctt
+
+
+
+>ECK120009991_opgGp2_forward_1109257_[IDA|S|Inferred from direct assay]_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tgcttaatccatgagccagcgtgctgaacgataccgggattctgttgtcggaatggctggTtatccattaaaatagatcgg
+
+
+
+>ECK120010473_osmYp_forward_4611153_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ttgcttatgttttcgctgatatcccgagcggtttcaaaattgtgatctatatttaacaaaGtgatgacatttctgacggcg
+
+
+
+>ECK120010753_paaXp_forward_1463509_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ggccctggtggggtaaagcgccagggccagaagtcgatacgacctgtgctatgattcataAatcacaacaataacaacaga
+
+
+
+>ECK120034550_panBp_reverse_149630_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tggcagtgctgctacggataaatcattgcccccaccaatgtgactgataaaatgccagacAgcacaacatcaatttatcag
+
+
+
+>ECK125203426_panDp2_reverse_146754_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gctgacgcaaatgccgtcagatgagtagacactaaacaaaaatcgggcaatactgcgtgaGaatttcctcaaagcaggcat
+
+
+
+>ECK125137253_pbpGp5_reverse_2225066_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cgctggcgattggcgtgctggtactggaagtgctgctcgccctaaccgttatactatgggGctacggttatcgtttgttct
+
+
+
+>ECK120016349_pcnBp2_reverse_159195_[TIM|S|Transcription initiation mapping]_Strong
+
+aaactggcggcttaccgccgtgcccgagtcggcaattgtaaattcaacattctcaaatgcGtcatgctgagctatgattag
+
+
+
+>ECK120030665_pdeLp1_forward_332039_[IDA|S|Inferred from direct assay]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+ctatgtgtttatgagggagaggtattttcagttgatctggattgttaaattcatataatgCgcctttgctcatgaatggat
+
+
+
+>ECK125136912_pdxIp1_forward_1474188_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atccagtaatcttgtttacaccttcgcattatttatctcttttcgtttctatactgatttTtcttaatccgttttattaca
+
+
+
+>ECK120049220_pepAp1_reverse_4486139_[TIM|S|Transcription initiation mapping]_Strong
+
+aactcgtcttttgcaggattttagcttgtttcatggcttaaacgtcatttattctcttgaGtcgtcgaaatcgtcgctaag
+
+
+
+>ECK125109852_pfkAp1_forward_4107522_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+tactatttgcacattcgttggatcacttcgatgtgcaagaagacttccggcaacagatttCattttgcattccaaagttca
+
+
+
+>ECK125199579_pflAp_reverse_951154_[TIM|S|Transcription initiation mapping]_Strong
+
+gggccttttttagcgcgagagccttttttgtcagctatctatactttaaggtgactgccaAaacagactcgacgtagcctt
+
+
+
+>ECK125136684_pflAp8_reverse_951228_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tcactcaatctatgtaattagatttgactgaaatcgtacagtaaaaagcgtacaataaagGctccacgaaagtggggcctt
+
+
+
+>ECK125165943_pgpBp_forward_1339309_[TIM|S|Transcription initiation mapping]_Strong
+
+cggaatggcacaaatctgtcaatttttcctggaactggcgttttcagttatgattgtgggActtatcaaaaaggagaggcc
+
+
+
+>ECK125136859_pgpBp4_forward_1339235_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aatgctggttctgtattggcttattttgccataacgagaaggggttcacctaatcacgacGcgtcgatcgttcacggaatg
+
+
+
+>ECK120010366_pheLp_forward_2737579_[TIM|S|Transcription initiation mapping]_Strong
+
+aacgcgccttcgggcgcgttttttgttgacagcgtgaaaacagtacgggtactgtactaaAgtcacttaaggaaacaaaca
+
+
+
+>ECK120011010_phoAp_forward_401707_[HIPP|W|Human inference of promoter position]_[NTAS|W|Non-traceable author statement]_Weak
+
+aaagttaatcttttcaacagctgtcataaagttgtcacggccgagacttatagtcgctttGtttttattttttaatgtatt
+
+
+
+>ECK120011028_phoEp_reverse_260158_[TIM|S|Transcription initiation mapping]_Strong
+
+ttttaagaatattattaatctgtaatatatctttaacaatctcaggttaaaaactttcctGttttcaacgggactctcccg
+
+
+
+>ECK125137910_phoUp2_reverse_3907646_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cacacggcgtttatgtacctgggcgaattgattgagttcagcaacacggacgatctgttcAccaagccagcgaagaaacaa
+
+
+
+>ECK125136796_pinEp1_forward_1209527_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+caatttatttgtcggataagcctttgccagttccgggtattcttcagcagaaaaagcggcAccattgcatttcagccagcc
+
+
+
+>ECK125140844_pkap_forward_2719931_[TASES|W|Traceable author statement to experimental support]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+aaaacgcaacatctgggtagcatcacagcagaacagttagaaagcgtttaaaatcattcgGtcacttctgcgggagaccgg
+
+
+
+>ECK120049219_pldAp_forward_4004814_[HIPP|W|Human inference of promoter position]_Weak
+
+ggtttctactttaggaagggataactaacggctatggagttaagtatgtaaaatagcccgCagaaaaatattcaccttatc
+
+
+
+>ECK125203411_plsXp_forward_1147577_[TIM|S|Transcription initiation mapping]_[ICWHO|W|Inferred computationally without human oversight]_Strong
+
+ggccgcaaggtcatcgctaagtaatcacgcatctgcgtgatgaagcttagtgaggattttCcccaggcaactggggaaaga
+
+
+
+>ECK120011045_pncBp_reverse_990414_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aaaggtggcatatggtgtgatcggggttcaataaattgcgaaacaaggtatactccagcaGttcctgaagatgtttattgt
+
+
+
+>ECK120010385_pnpp_reverse_3311326_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gagtggccccttttttcaagctgacggcagcaattcactggaaactaatgtattgttgctAtgaatgatcttccgttgcag
+
+
+
+>ECK120015389_polBp_reverse_65803_[AIPP|W|Automated inference of promoter position]_Weak
+
+gggcagtaatgactgtataaaaccacagccaatcaaacgaaaccaggctatactcaagccTggttttttgatggattttca
+
+
+
+>ECK120010737_poxBp_reverse_911076_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttagtgcctcctttctctcccatcccttccccctccgtcagatgaactaaacttgttaccGttatcacattcaggagatgg
+
+
+
+>ECK125095184_ppdDp_reverse_117705_[AIPP|W|Automated inference of promoter position]_Weak
+
+tgcgttttcgctaatagttgacagatttatccgctccatcgcgggcggataatctcccctTccccaactttcttcgtaacg
+
+
+
+>ECK125137467_pphBp1_forward_2859737_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gctatcgggaatattaacgacaactgacgaataaaataaaaacaccctgtataataggaaAgcttattttacagggtaaaa
+
+
+
+>ECK120010560_ppiAp1_reverse_3492335_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+agatacgtaaaattaggtaaagggatggccttgttcttgaaggctatttagaatctcttcActtgctttttttctgctctg
+
+
+
+>ECK120010561_ppiAp2_reverse_3492395_[HIPP|W|Human inference of promoter position]_Weak
+
+cattttaagaggtgattttgatcacggaataaaaagtgatcgtcaggttacatatatttcAgatacgtaaaattaggtaaa
+
+
+
+>ECK125136955_pptAp6_forward_1532867_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aattattttcagggatacggcacattgctattaatattttgacgaatgataaggtattcaAggcagggttaagacgtaaga
+
+
+
+>ECK125138118_prfCp4_forward_4609356_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+actggagcagctcctgtgtaaacactgattgcctcccccccgttgatgggtaaaatagccGcaatttttcgttttcaacaa
+
+
+
+>ECK120010213_proPp1_forward_4330320_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tcctaaacgaaatccatgtgtgaagttgatcacaaatttaaacactggtagggtaaaaagGtcattaactgcccaattcag
+
+
+
+>ECK120010285_proSp_reverse_218837_[TIM|S|Transcription initiation mapping]_Strong
+
+aaccgcgttaaattcacgcccttctcttttgacatttcttttgcactggtaaactaaatcActtttttttgtcccaggctc
+
+
+
+>ECK120010370_proVp3_forward_2804755_[TIM|S|Transcription initiation mapping]_Strong
+
+ttcatgccacatttgccatcaggggttgcctcagattctcagtatgttagggtagaaaaaAgtgactatttccattgggta
+
+
+
+>ECK120009916_psiEp_forward_4240300_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tgaacaaaacatacacaaaaaatatagatctccgtcacatttttgcgttatacaggaagcTcgccactgtgaaggaggtac
+
+
+
+>ECK120009905_pspFp1_reverse_1367945_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tatctttttgatttataaagatctgattgaagaatcaacagcaacatgccaggatgagttAgcgaattacactaacaagtg
+
+
+
+>ECK120009907_pspFp3_reverse_1368040_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+caaagcgagaaaaaatacccataatgttgtcctcttgatttctgcgttcaggattgtcctGctgaactgttaatacaattt
+
+
+
+>ECK125137426_pssAp4_forward_2722578_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcgctagcccgcaagctcgggtttaacgttgatatccagctcgaagaggggatcgttgggCttacgctaaatcttgcccag
+
+
+
+>ECK120035100_pstBp_reverse_3908447_[HIPP|W|Human inference of promoter position]_Weak
+
+agaggggcgaggggaccgaccgagcgcctttttgactctgtacacggttaacactttgccGgatgcggcgtgaacgcctga
+
+
+
+>ECK120010253_pstSp_reverse_3911568_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tcataaaactgtcatattccttacatataactgtcacctgtttgtcctattttgcttctcGtagccaacaaacaatgcttt
+
+
+
+>ECK120009901_pthp_reverse_1258542_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tatctgcatttgatacgcagttttttgtcaagcggggccgcaaccagtaaactacgcgccAgttatgtacacactcaggac
+
+
+
+>ECK120011014_purLp_reverse_2695589_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gtgattttatttccacgcaaacggtttcgtcagcgcatcagattctttataatgacgcccGtttcccccccttgggtacac
+
+
+
+>ECK120034249_pykAp1_forward_1937544_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttgataagcagttacttaatttaagtgacgatcgctaaaaacgactgtcactgtcctaatCttatacgacatccgaatgag
+
+
+
+>ECK120034238_pykFp1_forward_1755663_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+gcaccaccactttcgtaataccggattcgctttccggcagtgcgcccagaaagcaagtttCtcccatccttctcaacttaa
+
+
+
+>ECK120034239_pykFp2_forward_1755600_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ggctgagacacaagcacacattcctctgcacgctttttcgatgtcacctatccttagagcGaggcaccaccactttcgtaa
+
+
+
+>ECK120011017_pyrCp_reverse_1122643_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+cgcattcgcgccctttatttttcgtgcaaaggaaaacgtttccgcttatcctttgtgtccGgcaaaaacatcccttcagcc
+
+
+
+>ECK120010324_pyrFp_forward_1341870_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+gcctgccaggggagaaatcgcaactgttaattttttatttccacgggtagaatgctcgccGtttacctgtttcgcgccact
+
+
+
+>ECK125137484_queEp7_reverse_2905606_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tcggtaattttatattcgttatcattaaaaactaatacagaaaaaataaatataattttgGtgaatgttttgacatgatta
+
+
+
+>ECK125136890_racRp3_reverse_1420244_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctgtgcctaatgcagtaagggtagggattgcctaatgtaatgcgcataggagaatattaaGcaatgcttagtggtaaagac
+
+
+
+>ECK125137924_rarDp1_reverse_4004227_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+acacaatgaagaacagctttatattgccagtgccaccgccacctatatggtaggttgaagAcataaaagcaggtaaactgc
+
+
+
+>ECK120010256_rbsDp_forward_3933322_[TIM|S|Transcription initiation mapping]_Strong
+
+atcacatttccgtaacgtcacgatggttttcccaactcagtcaggattaaactgtgggtcAgcgaaacgtttcgctgatgg
+
+
+
+>ECK120032985_rcnAp_forward_2185827_[TIM|S|Transcription initiation mapping]_Strong
+
+tttctgtttatcacggattgtatgagacatggcaacacctggttaacaagaatatgaaaaAtcatagcactattaatctac
+
+
+
+>ECK120032986_rcnRp_reverse_2185903_[TIM|S|Transcription initiation mapping]_Strong
+
+aagaaccaggcgtttccttgctgaagaagagttgtaaattcggtcatgataataattcttAgtattaattcggcaatctga
+
+
+
+>ECK125136827_rdlAp5_forward_1269323_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcgcgagcgtcatatagccgccttgttgtaatgacaacattttgcggctattcttgaattGttctggttcaagattagccc
+
+
+
+>ECK120015765_recNp_forward_2751759_[HIPP|W|Human inference of promoter position]_Weak
+
+aattattctaattttacgccagcctctttactgtatataaaaccagtttatactgtacacAataacagtaatggtttttca
+
+
+
+>ECK125257024_recQp_forward_4005836_[IHBCE|W|Inferred by a human based on computational evidence]_Weak
+
+ttaccctctcagagactaaaagcattgcagtttctcgcgcaggcgctgaaaatagcgcctGtttttatttcaggcaatcgg
+
+
+
+>ECK120010374_relAp1_reverse_2913829_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+gtgttatgcagcaaattataaaactggaacctattcgtatagtttatgtatcctgtaaccCtgcaacgctggctcgggata
+
+
+
+>ECK125137000_remp2_reverse_1644975_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gtttttgtttttattttcaacgcgtttgaagttctggacggtgccggaatagaatcaaaaAtacttaagtagcgcgcaggg
+
+
+
+>ECK125137938_rfaHp4_reverse_4024873_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atttgttaaattagcgtgaactctgacggtataacgcaaaccggggaatataattaacttAgcgtaaagcttttgctatcc
+
+
+
+>ECK125137220_rfbXp7_reverse_2109718_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tttttggttctgtctgatatcgctgaatttcaatataaaactacaaactattatcatcctGaaagcgattgtggaatatgt
+
+
+
+>ECK125137216_rfcp10_reverse_2107283_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tagcagagaagacaaggttatatttggcgggcgtttggccgagtataaatattatgatatGcatcaagtgatatctgccgc
+
+
+
+>ECK125137217_rfcp11_reverse_2107444_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tataccagaataattgagcataaacattttgactatgttgagacaaagcatacggttgttAcaaaagaatatccattagag
+
+
+
+>ECK120010141_rhaSp_forward_4097711_[TIM|S|Transcription initiation mapping]_Strong
+
+tacgtggttttccgtcgaaaatttaaggtaagaacctgacctcgtgattactatttcgccGtgttgacgacatcaggaggc
+
+
+
+>ECK125137811_rhsBp10_forward_3619113_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+taaataccctatccgaaccttctcttttgtaacgttctaaatatattcctaaaaatcttcAattcattgtgaccacaagtt
+
+
+
+>ECK125137038_ribCp5_reverse_1743458_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcgagaatcaccgggattgctaatgctaataacagacgcgcttcactgatatacttctgcAcgtgaacaccttttatttgt
+
+
+
+>ECK120009923_rimKp_forward_891876_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_Weak
+
+ctggagcgatcatatccgccgaacaatcattaaagaaagccgcccatttattctggattaTttgcacaaacagggttgggc
+
+
+
+>ECK125137115_rlmAp9_reverse_1907086_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tttatcttcgctcctggcgttcggatatttgcccgccgcgtgattcgcgttacacttgcgGcctttagtatcctgccggag
+
+
+
+>ECK120010506_rlmEp1_reverse_3327760_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ggtgctgtttttgtttagtactcagattcatcgtattttttgcttacgttgggattgaaaAcgggtcattctaccgccatc
+
+
+
+>ECK125136642_rlmFp7_forward_842224_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atatttttacaaaataagacaaatcaatgacatgcataatgctgatttttatgatgaattGccataaaccatagccatgtt
+
+
+
+>ECK125136700_rmfp5_forward_1015503_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+taaagcgtctaccttaattataaagatttgtaaatataaccgtctccggtatgttgcctgAggcggtttttttgtctctaa
+
+
+
+>ECK120011144_rplMp_reverse_3378672_[AIPP|W|Automated inference of promoter position]_Weak
+
+cggactttgtcgtgtgaacctcaacaattgaagacgtttgggtgttcaccaacgtgtaacTatttattgggtaagctttta
+
+
+
+>ECK120010383_rpoDp2_forward_3212637_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+acttgtctctcccagccaggtctgaccaccgggcaacttttagagcactatcgtggtacaAataatgctgccacccttgaa
+
+
+
+>ECK120010579_rpoEp2a_reverse_2710087_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tgacaaacaaaaacagatgcgttacggaactttacaaaaacgagacactctaaccctttgCttgctcaaattgcagctaat
+
+
+
+>ECK125240999_rpoEp2b_reverse_2710339_[TIM|S|Transcription initiation mapping]_Strong
+
+aacatggtttggtcagcatagcatcatgttgtgcggataaacacctgctattttaatattTgttacagttgctaaacacgc
+
+
+
+>ECK120010744_rpsAp1_forward_961717_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gaacgtgcgcatcgccgcatgctacagttgcaggagaagggctttagtgttaactttgagCgccttttggccgagatcaaa
+
+
+
+>ECK120011146_rpsMp2_reverse_3442565_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aaggctgattttttcgcatatttttcttgcaaagttgggttgagctggctagattagccaGccaatcttttgtatgtctgt
+
+
+
+>ECK120010380_rpsUp1_forward_3210646_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+atgcgggttgatgtaaaactttgttcgcccctggagaaagcctcgtgtatactcctcaccCttataaaagtccctttcaaa
+
+
+
+>ECK120010381_rpsUp2_forward_3210712_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_[IMP|W|Inferred from mutant phenotype]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+aaagtccctttcaaaaaaggccgcggtgctttacaaagcagcagcaattgcagtaaaattCcgcaccattttgaaataagc
+
+
+
+>ECK125095435_rraBp1_forward_4478384_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tggctaacgcctcaatgaattaaaattcaatttatatggatgattattcatttgcaagtcTaaagcataaatctttgtcac
+
+
+
+>ECK120009864_rrsAp1_forward_4035239_[HIPP|W|Human inference of promoter position]_Weak
+
+cagaaaattattttaaatttcctcttgtcaggccggaataactccctataatgcgccaccActgacacggaacaacggcaa
+
+
+
+>ECK125137145_ruvBp3_reverse_1945452_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gaccgacgatgctgaacaagaagcggttgccgcgctggtggcgctgggctataaaccacaAgaagcaagccgcatggtgag
+
+
+
+>ECK120032973_ryfDp_reverse_2734295_[TIM|S|Transcription initiation mapping]_Strong
+
+atcgtcgcgacaagaccaccggtcgtatggcaagtttcatttggctgatataacctaaagAatcaagacgatccggtacgc
+
+
+
+>ECK120009960_ryhBp_reverse_3581016_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+aatgcatttttttgcaaaaagtgttggacaagtgcgaatgagaatgattattattgtctcGcgatcaggaagaccctcgcg
+
+
+
+>ECK120033699_safAp_reverse_1584028_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tgcctacagctgtaagaaactccgctcagtactgaagcaccagtcctatttcctcttttcTccagcctgttatattaagca
+
+
+
+>ECK120033029_sbcDp_reverse_416977_[HIPP|W|Human inference of promoter position]_Weak
+
+tattgatttccgtggcgcagaaaaaagcaaatggcacatctgtttgggtataatcgcgccCatgctttttcgccagggaac
+
+
+
+>ECK120033031_sdaCp_forward_2928035_[AIPP|W|Automated inference of promoter position]_Weak
+
+gcccttaaattctcttttacttttgatttacagagtaaagcgttgggataatctatcttcCaagtagattattgtatttga
+
+
+
+>ECK120010305_sdhDp2_forward_755404_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aggtttcgagcaagcttccgcgattatgggcagcttcttcgtcaaatttatcatgtggggCatccttaccgctctggcgta
+
+
+
+>ECK125140840_sdiAp1_reverse_1996917_[TIM|S|Transcription initiation mapping]_Strong
+
+actcattaataacataagagaatgcgatggcttgcaaaagtaattcattgcctgaataatAtaaattatatataaatctta
+
+
+
+>ECK125230255_sdsNp_forward_1996906_[TIM|S|Transcription initiation mapping]_Strong
+
+gcccctgagagtgagtatcatttataatgataattcaaactatcacataaataagatttaTatataatttatattattcag
+
+
+
+>ECK125136519_selUp4_reverse_531358_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+attgagtctggcatggcgcaaatttggcagcggcaaagcggtagaagatattgtgaccttGtttacccagcgcaggccgga
+
+
+
+>ECK120010267_serAp1_reverse_3058456_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+tcaacatcgcgacgcaaacgttcatattgccgcaatattattttttgatatgttgaaaggCggatgcaaatccgcacacaa
+
+
+
+>ECK125136529_sfmAp6_forward_558166_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agacattcttagaggataaaaaggaatttactactatcagtgtcttaaataaagtaatcgGttatatacggatgtggagtc
+
+
+
+>ECK125136530_sfmCp4_forward_558807_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atgaataatcaaaaccacgttgttttgaattatatatcacgtcttataacaaagtaatgtAccggttgtctgaagcggtat
+
+
+
+>ECK120010937_sfsAp_reverse_161515_[HIPP|W|Human inference of promoter position]_Weak
+
+accctttacgcctcctcgtttgcccgtggacgcacacgctacacgccgctaaaacgctggGcgctaacgcaataacaagga
+
+
+
+>ECK125137190_shiAp11_forward_2053534_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctgcgctttcatcttccatcgaatttttcatgttgccgctaatcagccataaaatcatttGcagatgcgctctgtcgaggt
+
+
+
+>ECK120035119_sibAp_forward_2153311_[TIM|S|Transcription initiation mapping]_Strong
+
+ctcgcaagaacggagagccgtcgattgacactaagggcggagtgacataatttcaggagtGagggttagggagaggtttcc
+
+
+
+>ECK120035120_sibDp_reverse_3194865_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+agggatatgtgttaatgaaaccttcttgacgctgattttttttcaacctaaagtaaaggaAcaagggtgagggaggatttc
+
+
+
+>ECK120009971_sixAp_reverse_2456999_[IDA|S|Inferred from direct assay]_[TIM|S|Transcription initiation mapping]_[AIPP|W|Automated inference of promoter position]_Strong
+
+cgtggggaaagtttttggaaaacaactgcaactgacctgcaataagaaggtcaaagctatAtgaatccgcgctgaatggcg
+
+
+
+>ECK125137028_slyAp10_reverse_1721014_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aacaccagatcttgtaagggcaatcctgttgcattgagcataaacttcacaaagtagattCctttacgaccgaatatattg
+
+
+
+>ECK125137746_slyDp6_reverse_3478699_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaatgcccggcctgtcaggcgcaggattcaatggcgatgtggcgcgaaaataatattgatAttgttgaatgtgttaagtgc
+
+
+
+>ECK125137344_smrBp6_forward_2448436_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cagcgcaacatgtcctgaatggtttgcagctcatttactgcttcatcaacgaaaattttaTccacgtattcctccagggca
+
+
+
+>ECK120011020_sodAp_forward_4100759_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tacgaaaagtacggcattgataatcattttcaatatcatttaattaactataatgaaccaActgcttacgcggcattaaca
+
+
+
+>ECK120010427_spfp_forward_4049899_[IMP|W|Inferred from mutant phenotype]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ctgaaaaaaaattacaaaaagtgctttctgaactgaacaaaaaagagtaaagttagtcgcGtagggtacagaggtaagatg
+
+
+
+>ECK125137084_sppAp6_forward_1848711_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ttgatcaatagttcgagtgcatccatttgattaactcctgtcgtgatatttattcacaaaAttaacacgagagtggatttt
+
+
+
+>ECK120030809_sraGp_forward_3311183_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[IMP|W|Inferred from mutant phenotype]_Strong
+
+cggtgtgttggccgtactggaatttacgaacgatcggattaagcaatgtaatatcctttcTctttcttagacagtacctta
+
+
+
+>ECK120009856_srkAp_forward_4042391_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+aagagtaaaagcttgtaagcggcgccaccaaaatcatcgtgaaatgatatccttcgtcatTcgtaatgttttccggatgat
+
+
+
+>ECK120011021_ssbp3_forward_4274011_[TIM|S|Transcription initiation mapping]_Strong
+
+attgacctgaatgaatatacagtattggaatgcattacccggagtgttgtgtaacaatgtCtggccaggtttgtttcccgg
+
+
+
+>ECK125162185_ssnAp_forward_3018950_[TIM|S|Transcription initiation mapping]_Strong
+
+gcgctcagttctgtccgtggaacggtaaaccgtacaaagacaaaatcaccgtcttcagccTggcgcaagactttgataaca
+
+
+
+>ECK120034944_ssrSp1_forward_3055974_[TIM|S|Transcription initiation mapping]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cgaaaaaactaaccaaaactttgaatgacacttttcggtttactgtggtagagtaaccgtGaagacaaaatttctctgaga
+
+
+
+>ECK125136692_ssuBp3_reverse_994141_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tggcgatgaatgcgcgggagtttttgcaaacggacgtggtggtagtcgctattattctttAcgccctgctcggcaaactgg
+
+
+
+>ECK120010482_stpAp2_reverse_2798556_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+gctgaaataatctcgcgcaggactgtaaatagattaaattttgtggaaatataataagtgAtcgcttacactacgcgacga
+
+
+
+>ECK125199580_sutRp_forward_1506150_[TIM|S|Transcription initiation mapping]_Strong
+
+gtgcgttatagcgtacaggcaccgtagcatttgtccgttataacgcacaagtgataaactTccgttttgccggaggagtcg
+
+
+
+>ECK125136616_tolBp6_forward_777537_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aacctgaaggtggcgatcccgcactttgtcaggctgcgttggcagcagctaaacttgcgaAgatcccgaaaccaccaagcc
+
+
+
+>ECK120010262_torCp_forward_1058056_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gccgtaagccgttcatcctgaccagtgccgctgttcatatttgctcattaagatcgcttcActaaaccataattctacagg
+
+
+
+>ECK120020514_tppBp_forward_1712671_[TIM|S|Transcription initiation mapping]_Strong
+
+tatatgtaacagattattacaaaggacttgtctgaaagtgcaagatagtgaacattacctGccgtttcccctcccactata
+
+
+
+>ECK120010263_treBp_reverse_4466210_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tcgctgcgtttcgggaacgttcccgtttttaaatttttccgcgcaatatattctgcagccAaccaaaaatgtcatctgcca
+
+
+
+>ECK120010323_trpCp_reverse_1319944_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+gcaggcggaacaccggaagaaaaccgtgacattttaacacgtttgttacaaggtaaaggcGacgccgcccatgaagcagcc
+
+
+
+>ECK120011022_trpRp_forward_4632704_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_Strong
+
+gccacggaatggggacgtcgttactgatccgcacgtttatgatatgctatcgtactctttAgcgagtacaaccgggggagg
+
+
+
+>ECK120010424_trxAp2_forward_3965687_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+tcatagtgtggtagaatatcagcttactattgctttacgaaagcgtatccggtgaaataaAgtcaacctttagttggttaa
+
+
+
+>ECK125137624_tsaDp2_reverse_3210628_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tttgtaaagcaccgcggccttttttgaaagggacttttataagggtgaggagtatacacgAggctttctccaggggcgaac
+
+
+
+>ECK125137625_tsaDp3_reverse_3210568_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aggctttctccaggggcgaacaaagttttacatcaacccgcattggtcctacactgcgcgGtaataaagcgaggtaaaaca
+
+
+
+>ECK120010294_tsxp1_reverse_432245_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ttcgggacgattttgtgcgtcccgcaacatctttccccgtcattttgttactctgcttacAtcacctggattgatagtaaa
+
+
+
+>ECK125109141_ttdAp_forward_3206424_[HIPP|W|Human inference of promoter position]_Weak
+
+taattacatattcacggtggcaaaaaatataaaaccacatttttagtggtagtttgtggcGgtgaatttttccagacaaat
+
+
+
+>ECK125162184_tynAp1_reverse_1451409_[TIM|S|Transcription initiation mapping]_Strong
+
+gccaaacaacctggcaggtgcaggcaatcccctttgcatcagtactgataatgtgaacctGactaaaccgcccacagagcg
+
+
+
+>ECK120011029_tyrBp_forward_4267082_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+ttgccgttcgctcctgaacatccactcgatcttcgccttcttccggtttattgtgttttaAccacctgcccgtaaacctgg
+
+
+
+>ECK120010608_tyrTp_reverse_1287665_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[FP|S|Footprinting]_[IMP|W|Inferred from mutant phenotype]_[HTTIM|S|High-throughput transcription initiation mapping]_Strong
+
+cagttcatttttctcaacgtaacactttacagcggcgcgtcatttgatatgatgcgccccGcttcccgataagggagcagg
+
+
+
+>ECK125137935_ubiEp2_forward_4018751_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gtcggttccggagcagccgaatgatgaagcttatcaacgcgatgatgaatataatcagcaGtcgcgctagcccattgggag
+
+
+
+>ECK120010197_udpP_forward_4016391_[TIM|S|Transcription initiation mapping]_Strong
+
+atttgcgtcatggtgatgagtatcacgaaaaaatgttaaacccttcggtaaagtgtctttTtgcttcttctgactaaaccg
+
+
+
+>ECK120010396_ugpBp2_reverse_3592426_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+ttccctcacccacgccgtcaccgccttgtcatctttctgacaccttactatcttacaaatGtaacaaaaaagttatttttc
+
+
+
+>ECK125137020_uidCp6_reverse_1693006_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gaagttattatgggcatccgcacatcaattgccttagtaccttgcggatttatgctactgGcattcgttattatctggttt
+
+
+
+>ECK120010065_uidRp_reverse_1697075_[AIPP|W|Automated inference of promoter position]_Weak
+
+gccttcgcactattcaacagcaatgataggcgctcacctgacaacgcggtaaactagttaTtcacgctaactataatggtt
+
+
+
+>ECK120010067_ulaAp_forward_4419927_[TIM|S|Transcription initiation mapping]_Strong
+
+gcgtcacatttaatcataaataatcttgttgtgattacttttgaaaattagagtgagtgcAcaacattccgggtgtgtgga
+
+
+
+>ECK120010532_uppp_reverse_2620909_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ttttgactaaagtcaacgaaaagaatattgccgccttgaagaaaggaggtataatccgtcGattttttttgtggctgcccc
+
+
+
+>ECK125137157_uspCp2_forward_1979598_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tacatatattaaccacttgtttaatgcggagaatcagtacactattttcttataattacaTttgaaattatatgatcaccg
+
+
+
+>ECK120048891_uvrBp1_forward_813493_[TIM|S|Transcription initiation mapping]_Strong
+
+actgtttttttatccagtataatttgttggcataattaagtacgacgagtaaaattacatAcctgcccgcccaactccttc
+
+
+
+>ECK120010306_uvrBp3_forward_813152_[TIM|S|Transcription initiation mapping]_Strong
+
+aggggctggagacagttatccactattcctgtggataaccatgtgtattagagttagaaaAcacgaggcaagcgagagaat
+
+
+
+>ECK120010146_uvrDp1_forward_3997907_[TIM|S|Transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+tactgccgcatctggaaatttcccggttggcatctctgacctcgctgatataatcagcaaAtctgtatatatacccagctt
+
+
+
+>ECK120010061_uxuRp_forward_4554458_[AIPP|W|Automated inference of promoter position]_Weak
+
+actgatatttggttgaccagttttcgtttttttgcccacctgtacgtgccaacttccagtGctaatggtatagtttgagat
+
+
+
+>ECK120015162_waaAp2_forward_3808256_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+aggctcaacagctacctgaatactgataacgcacttactttgacgtgctagtgtatcattTctttcgcagcaatccgaccc
+
+
+
+>ECK125137880_waaUp6_reverse_3799496_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+taagtagggatttattcaaaatattgccattttttcgttttatgcatgataatgtaaaagAtattaatatttataatttat
+
+
+
+>ECK125137223_wzxCp5_reverse_2120337_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcataacgaacagtatcgacagctcattgaaggctacatgctgcgccataaggtgaaaccGggcattaccggctgggcgca
+
+
+
+>ECK125137887_xanPp4_forward_3828919_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aatatttagatgaggatgtggcaaacgtttgcttttctctttcggtcagctaaaatgcccGctttgctaccacgggattgt
+
+
+
+>ECK125137537_xanQp3_forward_3024260_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gcttcggcggcctgtttctctgtttgaacgatgactaaatagtgactgcgaaaatgagatAagccgttctcaaggcgtcct
+
+
+
+>ECK120010710_xapAp_reverse_2524910_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+tattgaatgcgtgagaaaagtgtattggtaagagccgggacaacctcgctataaaaaggcGttagattccaccctacagaa
+
+
+
+>ECK120010731_xseAp_forward_2634197_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+catctacccctttttgcaaaaaatgcttgctatccccgaagggcgggttactatcgactgAataacctgctgatttagaat
+
+
+
+>ECK120009912_xseBp_reverse_441373_[HIPP|W|Human inference of promoter position]_Weak
+
+cacatcaccttaccattgcgcgttatttgctatttgccctgagtccgttaccatgacgggGcgaaaaatattgagagtcag
+
+
+
+>ECK125136346_yaaAp5_reverse_6615_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctgctctcgcctgtggttcataccattgccagtgattatctacgccagcgtaaactcggcGtgcgcccggtgtttgatcca
+
+
+
+>ECK125136349_yaaIp2_reverse_11938_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+attttttgtgcttttgcgcagaaatttcgcgatatggcaggacaagacgtaaaattgacaGcaattttattcatataaaga
+
+
+
+>ECK125136344_yaaXp4_forward_5030_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctgcccgccgattttgctgcgttgcgtaaattgatgatgaatcatcagtaaaatctattcAttatctcaatcaggccgggt
+
+
+
+>ECK125136383_yadSp5_reverse_177786_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cacgctcgccacaggcgattgtcattacaggcggaccggaccaaattcctaaaatcaaacAatactggggtgaacagctca
+
+
+
+>ECK120010497_yadVp1_reverse_156235_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ttcaccagttaaattgattgaatgaatatacagggaataataatttctattttatattatTccctgttttaattaactcta
+
+
+
+>ECK125136394_yaeRp3_forward_211858_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gagtcctaaaaatggcgggataacttgccagagcggcttccgggcgagtaacgtgctgttAacaaataaaggagacgttat
+
+
+
+>ECK125136424_yagGp6_forward_285271_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+acggctttgttgtttttgaaatttattaatttaaacaattagttgagatatatcgttggcGtcacaaaagcaaaataacgt
+
+
+
+>ECK125136428_yagIp1_reverse_289192_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gagagggagaacaccggctccatttcattgatttttcatcccgaaaaaggtacgttttcgCcttaattccagcgtggacat
+
+
+
+>ECK125136429_yagKp6_reverse_293118_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+caggctggggctaccttcgtctcaaatttagatgttggataggtattatataatggcattGtgtactcttactacctgtat
+
+
+
+>ECK125136431_yagNp3_reverse_295660_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaaaaacaacgttgatatgcgttgattccattaaaaatcaacatattacaaaatatcatcAactattgatcaagatagatt
+
+
+
+>ECK125136461_yahMp4_forward_345252_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atgcagatgttttgtgaatgtgttggttgacattcatatgaaaaaaatcataattccatcAtgtttgtgtggggtcttttc
+
+
+
+>ECK125136477_yaiYp5_reverse_399460_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cgtaattgttaataaatttaacttaaggttgccattttgtgactcacaacgaagattcacGcttcgggaatattcccaaca
+
+
+
+>ECK125136485_yajDp5_forward_430530_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gccgtaatcaagttcccgttgatgttgaaaatcccggtcagaagatcgggattttttttgAtgtatggagattgcgaaaat
+
+
+
+>ECK125203430_yajGp_reverse_454210_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+catgatgaatttacatgccttacccacttcccctcgccgttggcaatgttatgatggcggGaatttttaccaaacacgctt
+
+
+
+>ECK120034940_ybaOp_forward_468352_[AIPP|W|Automated inference of promoter position]_Weak
+
+tgccgtggtgtttaaaccgcacagaataaattgtcgtgatttcacctttaaaataaaattAaaagagaaaaaaattctctg
+
+
+
+>ECK125136516_ybbLp6_forward_515892_[ICWHO|W|Inferred computationally without human oversight]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+attatacctgattactgaaagagagttcccccttattcctgcgaaggataaactgtttttAgtaaaaatcagaaaaaggga
+
+
+
+>ECK125136517_ybbOp4_reverse_519329_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctgaaccattgttaatgcaaatacgtctgcctgcaaactatggtcgccgttataatgaagCctttagcgccatttacccca
+
+
+
+>ECK125136527_ybcJp7_reverse_557025_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctggatcaaagaaggcgcaattgtgattgatgtcggcatcaaccgtctggaaaatggcaaAgttgtgggcgacgtcgtgtt
+
+
+
+>ECK125136535_ybcKp5_forward_568810_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgctttcaagattatggcgtaagaaaattgcaatacgattattgttgtatattcaagataAtgtgaccttaattgtctttt
+
+
+
+>ECK125136544_ybcWp7_forward_579844_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gatgtatgtaaggccaacgtgctcaaaccttcatacagaaagatttgaagtaatattttaAccgctagatgaagagcaagc
+
+
+
+>ECK125136560_ybdRp6_forward_641922_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+atacataaccctttctccctgttaatcatgaacaaatcattcgccatgattataatatttAtccctgatatttgtctggtt
+
+
+
+>ECK120033619_ybeDp_reverse_662706_[IDA|S|Inferred from direct assay]_[HIPP|W|Human inference of promoter position]_[IEP|W|Inferred from expression pattern]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+cactggtttggttaaaaattaaacacttgaaagtgtaatttccgtccccatatactaagcAtcagtaaaaaactcccgcct
+
+
+
+>ECK125136568_ybeFp4_reverse_661460_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gccttgctccgtaactcaccccattgattaacctattgaaatagttgattatggtgagcaAaagcgttccgttccaattag
+
+
+
+>ECK125136571_ybeFp7_reverse_661386_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+caattagacataagattattgtaattttttaaatattatttttccatgaataaaattggaGtaagtgcgtggatagtaata
+
+
+
+>ECK125136613_ybgCp5_forward_774709_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tttttacgctcccttaacttgccctcattcccaaacctcaatcgcgcgcgtatagtagcaGcgtttaaaagctctaacttt
+
+
+
+>ECK125136608_ybgOp3_reverse_749185_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+caggtcagccagcagggcaaccaactgacactgaaaaatcctaccgcgtattatctgaccAttgcctatctggggagaaat
+
+
+
+>ECK125136629_ybhDp5_forward_800620_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ataattcatgcttcattattactccggaaaatggaagcgacgattttgggtggctggccgTtaaaaattttaactgcattt
+
+
+
+>ECK125136630_ybhHp7_forward_800694_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgcatttagccaacttaaattaatgaaaaaatgttattaatcgttgagctaaagtcattaGagatgctttgcccttaatgt
+
+
+
+>ECK120009922_ybjCp_forward_890892_[HIPP|W|Human inference of promoter position]_[TIM|S|Transcription initiation mapping]_Strong
+
+ttaattgctaaaagctataactgttaaacacaatacagtgaaaagttttagactgaaggcTcactttgcagagggaagcgt
+
+
+
+>ECK125136659_ybjLp10_reverse_889941_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tataggccaacgcaattcatatagccgttgatacctaatgtgattacactagtaaaatatAttgttactttactatcgttt
+
+
+
+>ECK125136664_ybjOp5_forward_897947_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaaacagcggatacgcgacatccagcgtgcaagacgtggctgaagacactaaaatttgccAacctggctacataatgccgc
+
+
+
+>ECK125136676_ycaDp6_forward_945839_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ccgctgggatatcgcgtattttcacccattgacaatgtttttggcggtggcatgatgcgcAtgaaatttgaacttcctcac
+
+
+
+>ECK125136690_ycaIp7_forward_964238_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ggaactggaagctgcctcgcagagttttgaacagttttcaccctttcgttaaattcttctGaatatgcctcggggaacgca
+
+
+
+>ECK125136681_ycaKp3_forward_949547_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ctaactcatcgcccgctgcacgaaagctttgattacgggccacggcaaagaaagtggcaaAgtcagacatattcatccgca
+
+
+
+>ECK125136686_ycaLp6_forward_960255_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tagcgtcgcttgtcaatgtaagttgttgatacataatatttatatatgattaatcaacggAtgattcacatgaagaatact
+
+
+
+>ECK120029861_yccAp_reverse_1031443_[TIM|S|Transcription initiation mapping]_[HIPP|W|Human inference of promoter position]_Strong
+
+gtaaagatgggtaaaacttctgggtgcccttacgcattatcattatgctgcttaattaatTacatctgtcatagagagtga
+
+
+
+>ECK125136704_yccTp5_reverse_1027797_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aaatatgtctatatgttagtaagtatgattaaagaaaaattttgacacattattattcggGcggtcttttgacaggagcta
+
+
+
+>ECK125136751_yceFp6_forward_1146761_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+aacccgcaatgtgtgcgaattattggcaaaaggcaaccacaggctgcctttttctttgacTctatgacgttacaaagttaa
+
+
+
+>ECK125136747_yceHp4_forward_1126077_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+cggtgatttactggcgcgactgggttttgaaaaagaaggctatgcgaaagactatctgttGattgatggacaatggcgcga
+
+
+
+>ECK120033621_yceJp_reverse_1119071_[IDA|S|Inferred from direct assay]_[AIPP|W|Automated inference of promoter position]_Strong
+
+atcattcaatttgttatttttgtgttgcaattcattctccgacacgccattttctttctcTcgcaaattcgttttggatgc
+
+
+
+>ECK125136743_yceOp8_reverse_1119623_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+tgcctgtacggcgctgcctgcacctatgataattcgcctgacgaagattttattatcgatAccctacccggccacgataat
+
+
+
+>ECK125136813_ycgNp3_forward_1228808_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ccgcctgaaagcggcggcaaaacttgcatcgctgtgccagactggttataaggtgcgtttTaacgtaatggcggaacacct
+
+
+
+>ECK125136814_ycgNp5_forward_1228750_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gctgacagtcactttcgatgggcattctttgacaactcgcgttttgtaatactttttgccGcctgaaagcggcggcaaaac
+
+
+
+>ECK125136825_ycgVp10_reverse_1256111_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agggaataactcgatataaactcacctttgtaagggggatgttaaatatatattaattccTgtgttcctgattttgcccgg
+
+
+
+>ECK125136803_ycgXp5_reverse_1213212_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+gtttgtaccggagctggtccgttgcaaaatgctcaccgggagaattcagatattccctctAtcacactctgtacatatcac
+
+
+
+>ECK120033032_ychHp_forward_1258738_[AIPP|W|Automated inference of promoter position]_[HTTIM|S|High-throughput transcription initiation mapping]_[RS-EPT-CBR|S|RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates]_Strong
+
+agggttgtaattgtgatcacgcccgcacataacccactgggtgttgtctatactttacacAtaaggaagaggggtattccc
+
+
+
+>ECK120022125_ychOp_forward_1273760_[AIPP|W|Automated inference of promoter position]_Weak
+
+cgcgagaaaatacgacaaaagttgccagtaatcgttattctttaaggctatggtttttcaTtattaccggaagttaccgac
+
+
+
+>ECK125122033_yciCp_reverse_1313698_[HIPP|W|Human inference of promoter position]_Weak
+
+tgcttttccatacaagacctgatgctgccacccgaggcttaaccagggtacaattgcccgCtaattaacacctgcataaaa
+
+
+
+>ECK125122032_yciEp_reverse_1315396_[HIPP|W|Human inference of promoter position]_Weak
+
+agcacagaaagtcgagcattatgagattgccagttacgggacattagcgacgctggctgaAcaattaggttaccgtaaagc
+
+
+
+>ECK125136889_ydaEp5_reverse_1418219_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ggcaccagacaccgcatcaacaaagttcatttgtaaaaatggagataattatgattgcacAtcacttcggaactgatgaaa
+
+
+
+>ECK125136928_ydcJp10_forward_1495133_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+agcgatgttaaaaacgaagcggtgtcgctgacaagtgaagttgtttgattatgataacttGattgcaaaatattattaaca
+
+
+
+>ECK125136948_ydcXp7_forward_1517236_[ICWHO|W|Inferred computationally without human oversight]_Weak
+
+ttctactggaaacattcatttttgccaccttttatcattgcccctatgtgtatagtacggGttaagaaaatccgcaataat
+
+
+
